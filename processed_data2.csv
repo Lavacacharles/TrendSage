@@ -1,0 +1,604 @@
+contenido,contenido_limpio,bigrams
+"Ya vamos a hacer rating de las galletas que venden en Perú
+ Estoy muy aburrida, lo siento
+ Disclaimer, no estoy agregando ni al Chocman, ni a Cancún, ni a la doña Pepa porque no son galletas para mí
+ Puesto 14, las glasitas
+ Son buenasas, me encantan, pero no las suelo comer tanto
+ Puesto 13, las colonitas
+ Me encantan, pero me llega que en el paquete solamente vengan 4 galletas
+ Y se parece a una que voy a mencionar en un rato, que me gusta más
+ Puesto 12, la Chocosoda
+ Me encanta, pero otra vez, en un empaque vienen 4 galletas
+ ¿Qué son 4 galletas?
+ No, no me gusta eso
+ Y en el puesto 11, la Oreo
+ Obviamente la Oreo no es una galleta peruana, pero
+ Tenía que poner a la Oreo en algún punto
+ Y si me gusta solamente que a veces ya me hartan un poco
+ Puesto 10, la galleta de tentación
+ Sobre todo la de chocolate y la de vainilla
+ Amo, pero no me gusta comerla tan seguido porque me hostila un poco
+ Pero es buenísima
+ Me acuerdo que Lamborghini, la marca de helado, la marca rojita
+ Tenía un helado de tentación
+ Dios mío, que huele a eso por favor
+ En el puesto 9, esta joya
+ Que solamente ponerlo aquí ya se me antojó
+ No es el chocolate de Cancún, ese del coco rallado
+ No, es una galleta
+ Pero parecía como un alfajorcito
+ Como los macaroons que venden ahora
+ Esta viene era demasiado deliciosa, se lo juro
+ No sé, ya no lo he visto
+ Díganme por favor si lo siguen vendiendo
+ En el puesto 8, la casino
+ Mi favorita son las de lúcuma y las de alfajor
+ Las de presa también
+ Pero las pongo muy abajo porque por más que las amo
+ Hay otras que me gustan más
+ Pero también esta es
+ Puesto 7, la soda B
+ De todas las galletas de soda
+ Esa es la que tiene como un toque de mantequilla
+ Puesto 6, las morochas
+ Amo las morochas
+ Amo, amo que vienen varias
+ Pero últimamente cada vez que las como
+ Siendo que estoy comiendo con un sandwich
+ Porque vienen tan pegadas que
+ Vienen 8, pero al final terminas comiendo
+ Como si fueran 4, porque
+ Vienen ahí pegadas y uno no las puede pegar
+ No sé quién está empaquetando esa vaina
+ Pero háganlo
+ Puesto 5, las ritz
+ De todas las galletas de soda
+ Esa es la que tiene como un toque de mantequilla
+ Puesto 6, las ritz
+ Amo las ritz
+ No hay otra galleta como las ritz
+ O sea de las saladas sí es mi favorita
+ Puesto 4, obviamente
+ Tenía que ser en el top 5 las rellenitas
+ Ya dejen de subirle el precio a las rellenitas por favor
+ Mi favorita son las de coco
+ Puesto 3, las picaras
+ Esta es mi galleta como de chocolate favorita
+ Sobre todo las de presa
+ Que cosa de locos
+ Y me gusto que hayan sacado la presentación
+ Porque antes venían 4 nomás
+ Puesto 2, y para mi si es una galleta de los waffernick
+ No, solamente voy a dejarlo ahí
+ Punto, delicioso
+ Y puesto 1, esta reliquio
+ Esta vaina era como un desayuno entero
+",vamos hacer rating galletas venden peru aburrida siento disclaimer agregando chocman cancun doñ pepa galletas puesto 14 glasitas buenasas encantan suelo comer puesto 13 colonitas encantan llega paquete solamente vengan 4 galletas parece voy mencionar rato gusta puesto 12 chocosoda encanta vez empaque vienen 4 galletas 4 galletas gusta puesto 11 oreo obviamente oreo galleta peruana poner oreo algun punto si gusta solamente veces hartan puesto 10 galleta tentacion chocolate vainilla amo gusta comerla tan seguido hostila buenisim acuerdo lamborghini marca helado marca rojita helado tentacion dios huele favor puesto 9 joya solamente ponerlo aqu antoj chocolate cancun coco rallado galleta parec alfajorcito macaroon venden ahora viene demasiado deliciosa juro se visto diganm favor si siguen vendiendo puesto 8 casino favorita lucum alfajor presa pongo abajo amo gustan puesto 7 soda b toda galletas soda toque mantequilla puesto 6 morochas amo morochas amo amo vienen varias ultim cada vez siendo comiendo sandwich vienen tan pegadas vienen 8 final terminas comiendo si 4 vienen ahi pegadas puede pegar se quien empaquetando vaina haganl puesto 5 ritz toda galletas soda toque mantequilla puesto 6 ritz amo ritz galleta ritz saladas favorita puesto 4 obviamente ser top 5 rellenitas dejen subirle precio rellenitas favor favorita coco puesto 3 picaras galleta chocolate favorita presa cosa locos gusto sacado present ven 4 nomas puesto 2 si galleta waffernick solamente voy dejarlo ahi punto delicioso puesto 1 reliquio vaina desayuno entero,"['vamos hacer', 'hacer rating', 'rating galletas', 'galletas venden', 'venden peru', 'peru aburrida', 'aburrida siento', 'siento disclaimer', 'disclaimer agregando', 'agregando chocman', 'chocman cancun', 'cancun doñ', 'doñ pepa', 'pepa galletas', 'galletas puesto', 'puesto 14', '14 glasitas', 'glasitas buenasas', 'buenasas encantan', 'encantan suelo', 'suelo comer', 'comer puesto', 'puesto 13', '13 colonitas', 'colonitas encantan', 'encantan llega', 'llega paquete', 'paquete solamente', 'solamente vengan', 'vengan 4', '4 galletas', 'galletas parece', 'parece voy', 'voy mencionar', 'mencionar rato', 'rato gusta', 'gusta puesto', 'puesto 12', '12 chocosoda', 'chocosoda encanta', 'encanta vez', 'vez empaque', 'empaque vienen', 'vienen 4', '4 galletas', 'galletas 4', '4 galletas', 'galletas gusta', 'gusta puesto', 'puesto 11', '11 oreo', 'oreo obviamente', 'obviamente oreo', 'oreo galleta', 'galleta peruana', 'peruana poner', 'poner oreo', 'oreo algun', 'algun punto', 'punto si', 'si gusta', 'gusta solamente', 'solamente veces', 'veces hartan', 'hartan puesto', 'puesto 10', '10 galleta', 'galleta tentacion', 'tentacion chocolate', 'chocolate vainilla', 'vainilla amo', 'amo gusta', 'gusta comerla', 'comerla tan', 'tan seguido', 'seguido hostila', 'hostila buenisim', 'buenisim acuerdo', 'acuerdo lamborghini', 'lamborghini marca', 'marca helado', 'helado marca', 'marca rojita', 'rojita helado', 'helado tentacion', 'tentacion dios', 'dios huele', 'huele favor', 'favor puesto', 'puesto 9', '9 joya', 'joya solamente', 'solamente ponerlo', 'ponerlo aqu', 'aqu antoj', 'antoj chocolate', 'chocolate cancun', 'cancun coco', 'coco rallado', 'rallado galleta', 'galleta parec', 'parec alfajorcito', 'alfajorcito macaroon', 'macaroon venden', 'venden ahora', 'ahora viene', 'viene demasiado', 'demasiado deliciosa', 'deliciosa juro', 'juro se', 'se visto', 'visto diganm', 'diganm favor', 'favor si', 'si siguen', 'siguen vendiendo', 'vendiendo puesto', 'puesto 8', '8 casino', 'casino favorita', 'favorita lucum', 'lucum alfajor', 'alfajor presa', 'presa pongo', 'pongo abajo', 'abajo amo', 'amo gustan', 'gustan puesto', 'puesto 7', '7 soda', 'soda b', 'b toda', 'toda galletas', 'galletas soda', 'soda toque', 'toque mantequilla', 'mantequilla puesto', 'puesto 6', '6 morochas', 'morochas amo', 'amo morochas', 'morochas amo', 'amo amo', 'amo vienen', 'vienen varias', 'varias ultim', 'ultim cada', 'cada vez', 'vez siendo', 'siendo comiendo', 'comiendo sandwich', 'sandwich vienen', 'vienen tan', 'tan pegadas', 'pegadas vienen', 'vienen 8', '8 final', 'final terminas', 'terminas comiendo', 'comiendo si', 'si 4', '4 vienen', 'vienen ahi', 'ahi pegadas', 'pegadas puede', 'puede pegar', 'pegar se', 'se quien', 'quien empaquetando', 'empaquetando vaina', 'vaina haganl', 'haganl puesto', 'puesto 5', '5 ritz', 'ritz toda', 'toda galletas', 'galletas soda', 'soda toque', 'toque mantequilla', 'mantequilla puesto', 'puesto 6', '6 ritz', 'ritz amo', 'amo ritz', 'ritz galleta', 'galleta ritz', 'ritz saladas', 'saladas favorita', 'favorita puesto', 'puesto 4', '4 obviamente', 'obviamente ser', 'ser top', 'top 5', '5 rellenitas', 'rellenitas dejen', 'dejen subirle', 'subirle precio', 'precio rellenitas', 'rellenitas favor', 'favor favorita', 'favorita coco', 'coco puesto', 'puesto 3', '3 picaras', 'picaras galleta', 'galleta chocolate', 'chocolate favorita', 'favorita presa', 'presa cosa', 'cosa locos', 'locos gusto', 'gusto sacado', 'sacado present', 'present ven', 'ven 4', '4 nomas', 'nomas puesto', 'puesto 2', '2 si', 'si galleta', 'galleta waffernick', 'waffernick solamente', 'solamente voy', 'voy dejarlo', 'dejarlo ahi', 'ahi punto', 'punto delicioso', 'delicioso puesto', 'puesto 1', '1 reliquio', 'reliquio vaina', 'vaina desayuno', 'desayuno entero']"
+"Hola chicas, buenas noches. Y de veras que son noches, son las 12 de la noche.
+ Vamos a hornear galletas de avena con pasas.
+ Resulta que a Isabela se le antojaron las galletas.
+ Anaí es mi niña, la más grande.
+ Pues ella las va a estar haciendo el que acompañe a prepararlas.
+ Primero vamos a echar en este recipiente una taza y media de avena,
+ tres cuartos tazas de harina de trigo, una pizquita de sal,
+ una cucharadita de canela en polvo, una cucharadita de baking powder.
+ Y estos son los ingredientes secos.
+ Vamos a mezclar.
+ En otro recipiente vamos a mezclar los ingredientes mojados más la azúcar.
+ Tengo un cuarto de taza de azúcar blanca, un cuarto de taza de azúcar morena.
+ Le vamos a echar una barra de mantequilla sin sal.
+ La mantequilla tiene que estar a temperatura ambiente.
+ Después de mezclarla un poco con la batidora de mano,
+ cambia esta eléctrica para que saliera así.
+ Se cambia el color, está oscura y ya se mira más como cremita.
+ Le vamos a echar un huevo primero aquí para que no se le vaya ningún cascarón,
+ poquito de vainilla y luego una cucharada de miel.
+ Mezclamos con la batidora otra vez.
+ Pasaron dos minutos de estar revolviéndola y así quedó.
+ Poco a poquito vamos a estar poniendo los ingredientes secos con los ingredientes mojados.
+ Eso es más para que no se mezcle todo a la misma vez
+ y no queden bolas de seco con lo mojado.
+ Nos aseguramos que todo esté bien mezclado.
+ Ya que se mezcló todo, va a quedar un poco dura.
+ No como cuando se hace una mezcla de pan que queda líquido.
+ Este no, este queda más seco.
+ A Isabela le gustan las galletas de avena con pasas.
+ Tengo una taza, también se le puede echar chocolate o nueces o en este caso son pasas.
+ Y ahora lo mezclamos.
+ Voy a usar dos cucharas para agarrar una bolita, como así.
+ La vamos a poner en nuestro pan.
+ Le puse aluminio con mantequilla.
+ Vamos a poner aquí enfrente, así.
+ No estoy usando mis manos porque nuestras manos son calientes,
+ sino van a derretir la mantequilla.
+ Hay gente que usa un scoop de lado, pero ese está demasiado grande,
+ pueden ser más pequeños.
+ Si tienen uno más pequeño, pueden usar un scoop.
+ Es más fácil.
+ Pero ahorita nos pusimos creativas.
+ Cuando se estén horneando y ya estén listas para salir,
+ no tienen que esperar hasta que se sientan duras.
+ O tienen que verse doraditas, pero no sentirse duras.
+ Porque cuando se sequen, van a hacerse más crujientes.
+ Y si las sacan cuando estén duras, van a hacerse como piedra.
+ Si están suaves cuando apenas salen, está bien.
+ Me salieron ocho galletas y están listos para meterse al horno a 350 grados Fahrenheit.
+ Y el horno ya lo precalentamos.
+ Y ahora a mi mami le toca hacer el otro tray de galletas.
+ Vamos a hacerlas.
+ Creo que las niñas están quedando muy grandes chicas.
+ A ella le copieron ocho.
+ Pasaron veinte minutos.
+ Se sienten blanditas, pero se tienen que enfriar para que tengan una consistencia dura.
+ Bueno, así quedaron las galletas.
+ Isabela está aquí para probar.
+ Así quedó la de mi mamá.
+ Ella cocina con amor.
+ Se le salió más cute.
+ A mí también salió un poquito cute también.
+ Diferente.
+ A ver mamá, ahora tú prueba la tuya.
+ Están deliciosas.
+ Y con leche.
+ Fueron ricas.
+ Pues estas fueron nuestras galletas chicas.
+ A las doce y media de la mañana estamos comiendo galletas, pero deliciosas.
+ Ok chicas, bailas, queremos mucho.
+ Bye.
+",hola chicas buenas noches veras noches 12 noche vamos hornear galletas avena pasas resulta isabela antojaron galletas ana niñ grande pues va haciendo acompañ prepararlas primero vamos echar recipiente taza medium avena tres cuartos tazas harina trigo pizquita sal cucharadita canela polvo cucharadita baking powder ingredientes secos vamos mezclar recipiente vamos mezclar ingredientes mojados azuc cuarto taza azuc blanca cuarto taza azuc morena vamos echar barra mantequilla sal mantequilla temperatura ambiente despues mezclarla batidora mano cambium electr saliera asi cambium color oscura mira cremita vamos echar huevo primero aqu vaya ningun cascaron poquito vainilla luego cucharada miel mezclamos batidora vez pasaron do minutos revolv asi qued poquito vamos poniendo ingredientes secos ingredientes mojados mezcle misma vez queden bola seco mojado aseguramos bien mezclado mezcl va quedar dura hace mezcla pan queda liqu queda seco isabela gustan galletas avena pasas taza puede echar chocolate nueces caso pasas ahora mezclamos voy usar do cucharas agarrar bolita asi vamos poner pan puse aluminio mantequilla vamos poner aqu enfrente asi usando manos manos calientes sino van derretir mantequilla gente usa scoop lado demasiado grande pueden ser pequeñ si pequeñ pueden usar scoop facil ahorita pusimos creativas horneando listas salir esperar sientan dura verse doraditas sentirse dura sequen van hacerse crujientes si sacan dura van hacerse piedra si suaves apenas salen bien salieron ocho galletas listos meterse horno 350 grados fahrenheit horno precalentamos ahora mami toca hacer tray galletas vamos hacerlas creo niñ quedando grandes chicas copieron ocho pasaron veinte minutos sienten blanditas enfriar consistencia dura bueno asi quedaron galletas isabela aqu probar asi qued mam cocina amor sal cute sal poquito cute diferente ver mam ahora prueba deliciosas leche ricas pues galletas chicas doce medium mañan comiendo galletas deliciosas ok chicas bailas queremos bye,"['hola chicas', 'chicas buenas', 'buenas noches', 'noches veras', 'veras noches', 'noches 12', '12 noche', 'noche vamos', 'vamos hornear', 'hornear galletas', 'galletas avena', 'avena pasas', 'pasas resulta', 'resulta isabela', 'isabela antojaron', 'antojaron galletas', 'galletas ana', 'ana niñ', 'niñ grande', 'grande pues', 'pues va', 'va haciendo', 'haciendo acompañ', 'acompañ prepararlas', 'prepararlas primero', 'primero vamos', 'vamos echar', 'echar recipiente', 'recipiente taza', 'taza medium', 'medium avena', 'avena tres', 'tres cuartos', 'cuartos tazas', 'tazas harina', 'harina trigo', 'trigo pizquita', 'pizquita sal', 'sal cucharadita', 'cucharadita canela', 'canela polvo', 'polvo cucharadita', 'cucharadita baking', 'baking powder', 'powder ingredientes', 'ingredientes secos', 'secos vamos', 'vamos mezclar', 'mezclar recipiente', 'recipiente vamos', 'vamos mezclar', 'mezclar ingredientes', 'ingredientes mojados', 'mojados azuc', 'azuc cuarto', 'cuarto taza', 'taza azuc', 'azuc blanca', 'blanca cuarto', 'cuarto taza', 'taza azuc', 'azuc morena', 'morena vamos', 'vamos echar', 'echar barra', 'barra mantequilla', 'mantequilla sal', 'sal mantequilla', 'mantequilla temperatura', 'temperatura ambiente', 'ambiente despues', 'despues mezclarla', 'mezclarla batidora', 'batidora mano', 'mano cambium', 'cambium electr', 'electr saliera', 'saliera asi', 'asi cambium', 'cambium color', 'color oscura', 'oscura mira', 'mira cremita', 'cremita vamos', 'vamos echar', 'echar huevo', 'huevo primero', 'primero aqu', 'aqu vaya', 'vaya ningun', 'ningun cascaron', 'cascaron poquito', 'poquito vainilla', 'vainilla luego', 'luego cucharada', 'cucharada miel', 'miel mezclamos', 'mezclamos batidora', 'batidora vez', 'vez pasaron', 'pasaron do', 'do minutos', 'minutos revolv', 'revolv asi', 'asi qued', 'qued poquito', 'poquito vamos', 'vamos poniendo', 'poniendo ingredientes', 'ingredientes secos', 'secos ingredientes', 'ingredientes mojados', 'mojados mezcle', 'mezcle misma', 'misma vez', 'vez queden', 'queden bola', 'bola seco', 'seco mojado', 'mojado aseguramos', 'aseguramos bien', 'bien mezclado', 'mezclado mezcl', 'mezcl va', 'va quedar', 'quedar dura', 'dura hace', 'hace mezcla', 'mezcla pan', 'pan queda', 'queda liqu', 'liqu queda', 'queda seco', 'seco isabela', 'isabela gustan', 'gustan galletas', 'galletas avena', 'avena pasas', 'pasas taza', 'taza puede', 'puede echar', 'echar chocolate', 'chocolate nueces', 'nueces caso', 'caso pasas', 'pasas ahora', 'ahora mezclamos', 'mezclamos voy', 'voy usar', 'usar do', 'do cucharas', 'cucharas agarrar', 'agarrar bolita', 'bolita asi', 'asi vamos', 'vamos poner', 'poner pan', 'pan puse', 'puse aluminio', 'aluminio mantequilla', 'mantequilla vamos', 'vamos poner', 'poner aqu', 'aqu enfrente', 'enfrente asi', 'asi usando', 'usando manos', 'manos manos', 'manos calientes', 'calientes sino', 'sino van', 'van derretir', 'derretir mantequilla', 'mantequilla gente', 'gente usa', 'usa scoop', 'scoop lado', 'lado demasiado', 'demasiado grande', 'grande pueden', 'pueden ser', 'ser pequeñ', 'pequeñ si', 'si pequeñ', 'pequeñ pueden', 'pueden usar', 'usar scoop', 'scoop facil', 'facil ahorita', 'ahorita pusimos', 'pusimos creativas', 'creativas horneando', 'horneando listas', 'listas salir', 'salir esperar', 'esperar sientan', 'sientan dura', 'dura verse', 'verse doraditas', 'doraditas sentirse', 'sentirse dura', 'dura sequen', 'sequen van', 'van hacerse', 'hacerse crujientes', 'crujientes si', 'si sacan', 'sacan dura', 'dura van', 'van hacerse', 'hacerse piedra', 'piedra si', 'si suaves', 'suaves apenas', 'apenas salen', 'salen bien', 'bien salieron', 'salieron ocho', 'ocho galletas', 'galletas listos', 'listos meterse', 'meterse horno', 'horno 350', '350 grados', 'grados fahrenheit', 'fahrenheit horno', 'horno precalentamos', 'precalentamos ahora', 'ahora mami', 'mami toca', 'toca hacer', 'hacer tray', 'tray galletas', 'galletas vamos', 'vamos hacerlas', 'hacerlas creo', 'creo niñ', 'niñ quedando', 'quedando grandes', 'grandes chicas', 'chicas copieron', 'copieron ocho', 'ocho pasaron', 'pasaron veinte', 'veinte minutos', 'minutos sienten', 'sienten blanditas', 'blanditas enfriar', 'enfriar consistencia', 'consistencia dura', 'dura bueno', 'bueno asi', 'asi quedaron', 'quedaron galletas', 'galletas isabela', 'isabela aqu', 'aqu probar', 'probar asi', 'asi qued', 'qued mam', 'mam cocina', 'cocina amor', 'amor sal', 'sal cute', 'cute sal', 'sal poquito', 'poquito cute', 'cute diferente', 'diferente ver', 'ver mam', 'mam ahora', 'ahora prueba', 'prueba deliciosas', 'deliciosas leche', 'leche ricas', 'ricas pues', 'pues galletas', 'galletas chicas', 'chicas doce', 'doce medium', 'medium mañan', 'mañan comiendo', 'comiendo galletas', 'galletas deliciosas', 'deliciosas ok', 'ok chicas', 'chicas bailas', 'bailas queremos', 'queremos bye']"
+"calificando las galletas de Joy Bakery con mi mejor amiga
+ la caja super linda 9.5
+ esto es la de Lotus Biscoff, la galleta de Kinder Bueno, la galleta de Reese's, la de S'mores
+ vamos a empezar por la de Lotus Biscoff
+ nunca he probado el Biscoff en Lotus
+ buenísima 9.5 de 10
+ vamos a seguir con la de Kinder
+ 9.10 10 de 10
+ vamos a seguir con esa de Reese's
+ 8.5 de 10, me gustan más las otras
+ yo le pongo 10 de 10 también a esta
+ y ahora la de S'more
+ se me va a deshacer, creo que me pongo más melito
+ 20 de 10
+ 10 de 10
+ deliciosa
+ super recomendadas
+ deliciosas
+",calificando galletas joy bakery mejor amiga caja super linda 95 lotus biscoff galleta kinder bueno galleta reeses smores vamos empezar lotus biscoff nunca probado biscoff lotus buenisim 95 10 vamos seguir kinder 910 10 10 vamos seguir reeses 85 10 gustan pongo 10 10 ahora smore va deshacer creo pongo melito 20 10 10 10 deliciosa super recomendadas deliciosas,"['calificando galletas', 'galletas joy', 'joy bakery', 'bakery mejor', 'mejor amiga', 'amiga caja', 'caja super', 'super linda', 'linda 95', '95 lotus', 'lotus biscoff', 'biscoff galleta', 'galleta kinder', 'kinder bueno', 'bueno galleta', 'galleta reeses', 'reeses smores', 'smores vamos', 'vamos empezar', 'empezar lotus', 'lotus biscoff', 'biscoff nunca', 'nunca probado', 'probado biscoff', 'biscoff lotus', 'lotus buenisim', 'buenisim 95', '95 10', '10 vamos', 'vamos seguir', 'seguir kinder', 'kinder 910', '910 10', '10 10', '10 vamos', 'vamos seguir', 'seguir reeses', 'reeses 85', '85 10', '10 gustan', 'gustan pongo', 'pongo 10', '10 10', '10 ahora', 'ahora smore', 'smore va', 'va deshacer', 'deshacer creo', 'creo pongo', 'pongo melito', 'melito 20', '20 10', '10 10', '10 10', '10 deliciosa', 'deliciosa super', 'super recomendadas', 'recomendadas deliciosas']"
+" Buenas, cómo andan? Vamos a hacer unas crackers, crackers, crackers de semillas con cuatro
+ ingredientes nada más. Lo que vamos a hacer primero, primero, primero es poner una taza
+ de semillas de lino. ¡Ay! Tengo que comprar más lino. ¿Lo conocen a Justelli? Semillas
+ de lino, una taza en un bowl. Agua hirviendo, este paso no te lo pases por alto, agua hirviendo
+ sobre las semillas de lino, hirviendo, hirviendo. Esto yo lo voy a mezclar y lo voy a dejar
+ acá unos minutitos. ¿Qué va a pasar con esto? Se va a transformar en un gel, es
+ como si fuera la textura de la yema, de la clara del huevo. Esto sí o sí lo tenés
+ que hacer de primerita. Agua hirviendo, semillas de lino, una taza y una taza, porque
+ esto va a hacer que la cracker esté unida. Entonces sí o sí vamos a formar este
+ gel que es re típico en las recetas veganas, que reemplaza el huevo. ¿Sí? Semillas de
+ lino, agua hirviendo, dejamos unos minutitos acá y vamos a poner dos tazas, esta me
+ mide dos tazas, de semillas. Las que vos quieras, las que vos tengas. Dos tazas.
+ Entonces yo acá tengo semillitas de girasol, pongo un poco de semillas de girasol,
+ pongo acá estas de calabaza. Las que vos tengas, las que te gusten. Tengo estas que no me
+ acuerdo cómo se llaman en español, que en realidad no son semillitas. Ahora lo
+ busco, ahora lo busco y les digo, voy a ponerle un poquitito de esto.
+ Lo importante es que sean dos tazas.
+ Dos tazas, esto lo dejo acá. Mientras tanto, señor, organizase un poquito,
+ organizase un poquito. En una placa para horno voy a ponerle un poquitito de aceite de
+ oliva o yo estoy usando esta que es de palta. Pero el aceite que prefieras. Si es oliva o de
+ palta mejor porque es más sabrosa. Pero nada, le ponemos ahí un poquitito de aceite. Por
+ arriba un papel manteca. El horno a 200 grados. Papel manteca, ahí. Que se agarre bien, bien,
+ bien. Ahí ven. Ahí, bien pegadito. Bien, bien pegadito. Vuelvo a barnizar con aceitito
+ toda la superficie del papel. Ahí, taca, taca. Todo, todo, todo. Y lo dejo acá a un ladito.
+ Vamos, así seguimos con la receta. Vamos a chusmear un poco cómo está esto. Le falta
+ todavía. Pero de a poquito, mira, de a poquito se va transformando en un gel. Es como, mira,
+ vamos a dejarle un cachetín más y ahora seguimos. Es re fácil. Mira lo que es. Esto
+ va a hacer que tu cookie y que tu craquer quede bien unida. Entonces, es fácil. Le agrego
+ las dos tazas de las semillas. Ah, gem, esta es semilla de cáñamo. Si quieren se usas,
+ si quieren no, ponen las semillas que vos prefieras. Dos tazas. Ahí, un poquito de sal.
+ Y para de contar. Mira, te voy a mostrar. Esto lo tengo que mezclar bien, bien, bien,
+ para que todo ese gel que se formó haga que todo esto se amalgame, que esté bien unido.
+ Y me voy con toda esta delicia de semillas a la placa que engrasamos recién. Quiero
+ fijar que quede todo bien unido. Mira, acá, a la placa, a la placa. ¿Ves? Todo, todo.
+ Voy a tirar que cubra toda la placa, va a quedar finita. Una cosita deliciosa.
+ Por último, aceitito de oliva o de palta. Pincelamos toda la superficie para que quede bien
+ crocante, bien bronceadita. ¡Qué rico! ¡Qué rico! Ahí. Y me voy al horno. Sí, el horno está
+ fuerte. Voy a dejarlo ahí 25 minutos, aproximadamente. Cada horno tiene su potencia,
+ así que chequea que no se te queme, que se ponga apenas moradita y la vas mirando. Acá tengo
+ un poquito de sal más gruesita y espolvoreo por ahí, pero esto es opcional. Ahí. Está
+ jilo como loca, no sé quién está pasando. Y me voy con esta belleza al horno. Ahora te muestro.
+ Muy bien, ya se bronciaron las semillitas, así que vamos a sacar la placa esta del horno y
+ la vamos a dejar enfriar por completo. No toques todavía esto porque va a estar blandito. Escuchen,
+ escuchen el ruido. Escuchen, escuchen el sonido del amor.
+ No saben el olor a semillitas. ¡Qué hay! ¡Dios! Miren lo que es esto. Lo vamos a cortar,
+ tipo a lo bestia. ¡Mira! ¡Mira! ¡No! ¡Chicas, chicos! ¡Es lo más, de lo más,
+ de lo más delicioso! ¡No! ¡No! ¡No!
+ ¡Qué delicia!
+ Bueno. ¡Hacelo, hacelo!
+ ¡Hagan esto!
+ ¡Hagan esto! Besote.
+",buenas com andan vamos hacer unas cracker cracker cracker semillas cuatro ingredientes vamos hacer primero primero primero poner taza semillas lino ay comprar lino conocen justelli semillas lino taza bowl agua hirviendo paso pas alto agua hirviendo semillas lino hirviendo hirviendo voy mezclar voy dejar aca minutitos va pasar va transformar gel si textura yema clara huevo tenes hacer primerita agua hirviendo semillas lino taza taza va hacer cracker unida entonces vamos formar gel tipic recetas veganas reemplaza huevo semillas lino agua hirviendo dejamos minutitos aca vamos poner do tazas mide do tazas semillas vos quieras vos do tazas entonces aca semillitas girasol pongo semillas girasol pongo aca calabaza vos gusten acuerdo com llaman español realidad semillitas ahora busco ahora busco digo voy ponerle poquitito importante do tazas do tazas dejo aca mientras señor organizase poquito organizase poquito placa horno voy ponerle poquitito aceite oliva usando palta aceite prefieras si oliva palta mejor sabrosa ponemos ahi poquitito aceite arriba papel manteca horno 200 grados papel manteca ahi agarre bien bien bien ahi ven ahi bien pegadito bien bien pegadito vuelvo barnizar aceitito toda superficie papel ahi taca taca dejo aca ladito vamos asi seguimos receta vamos chusmear com falta todav poquito mira poquito va transformando gel mira vamos dejarle cachetin ahora seguimos facil mira va hacer cookie craquer quede bien unida entonces facil agrego do tazas semillas ah gem semilla cañam si quieren usa si quieren ponen semillas vos prefieras do tazas ahi poquito sal contar mira voy mostrar mezclar bien bien bien gel form haga amalgame bien unido voy toda delicia semillas placa engrasamos recien quiero fijar quede bien unido mira aca placa placa f voy tirar cubra toda placa va quedar finita cosita deliciosa ultim aceitito oliva palta pincelamos toda superficie quede bien crocante bien bronceadita rico rico ahi voy horno horno fuerte voy dejarlo ahi 25 minutos aproximadamente cada horno potencia asi chequea queme ponga apenas moradita va mirando aca poquito sal gruesita espolvoreo ahi opcional ahi jilo loca se quien pasando voy belleza horno ahora muestro bien bronciaron semillitas asi vamos sacar placa horno vamos dejar enfriar completo toque todav va blandito escuchen escuchen ruido escuchen escuchen sonido amor saben olor semillitas dios miren vamos cortar tipo bestia mira mira chicas chico delicioso delicia bueno hacelo hacelo hagan hagan besote,"['buenas com', 'com andan', 'andan vamos', 'vamos hacer', 'hacer unas', 'unas cracker', 'cracker cracker', 'cracker cracker', 'cracker semillas', 'semillas cuatro', 'cuatro ingredientes', 'ingredientes vamos', 'vamos hacer', 'hacer primero', 'primero primero', 'primero primero', 'primero poner', 'poner taza', 'taza semillas', 'semillas lino', 'lino ay', 'ay comprar', 'comprar lino', 'lino conocen', 'conocen justelli', 'justelli semillas', 'semillas lino', 'lino taza', 'taza bowl', 'bowl agua', 'agua hirviendo', 'hirviendo paso', 'paso pas', 'pas alto', 'alto agua', 'agua hirviendo', 'hirviendo semillas', 'semillas lino', 'lino hirviendo', 'hirviendo hirviendo', 'hirviendo voy', 'voy mezclar', 'mezclar voy', 'voy dejar', 'dejar aca', 'aca minutitos', 'minutitos va', 'va pasar', 'pasar va', 'va transformar', 'transformar gel', 'gel si', 'si textura', 'textura yema', 'yema clara', 'clara huevo', 'huevo tenes', 'tenes hacer', 'hacer primerita', 'primerita agua', 'agua hirviendo', 'hirviendo semillas', 'semillas lino', 'lino taza', 'taza taza', 'taza va', 'va hacer', 'hacer cracker', 'cracker unida', 'unida entonces', 'entonces vamos', 'vamos formar', 'formar gel', 'gel tipic', 'tipic recetas', 'recetas veganas', 'veganas reemplaza', 'reemplaza huevo', 'huevo semillas', 'semillas lino', 'lino agua', 'agua hirviendo', 'hirviendo dejamos', 'dejamos minutitos', 'minutitos aca', 'aca vamos', 'vamos poner', 'poner do', 'do tazas', 'tazas mide', 'mide do', 'do tazas', 'tazas semillas', 'semillas vos', 'vos quieras', 'quieras vos', 'vos do', 'do tazas', 'tazas entonces', 'entonces aca', 'aca semillitas', 'semillitas girasol', 'girasol pongo', 'pongo semillas', 'semillas girasol', 'girasol pongo', 'pongo aca', 'aca calabaza', 'calabaza vos', 'vos gusten', 'gusten acuerdo', 'acuerdo com', 'com llaman', 'llaman español', 'español realidad', 'realidad semillitas', 'semillitas ahora', 'ahora busco', 'busco ahora', 'ahora busco', 'busco digo', 'digo voy', 'voy ponerle', 'ponerle poquitito', 'poquitito importante', 'importante do', 'do tazas', 'tazas do', 'do tazas', 'tazas dejo', 'dejo aca', 'aca mientras', 'mientras señor', 'señor organizase', 'organizase poquito', 'poquito organizase', 'organizase poquito', 'poquito placa', 'placa horno', 'horno voy', 'voy ponerle', 'ponerle poquitito', 'poquitito aceite', 'aceite oliva', 'oliva usando', 'usando palta', 'palta aceite', 'aceite prefieras', 'prefieras si', 'si oliva', 'oliva palta', 'palta mejor', 'mejor sabrosa', 'sabrosa ponemos', 'ponemos ahi', 'ahi poquitito', 'poquitito aceite', 'aceite arriba', 'arriba papel', 'papel manteca', 'manteca horno', 'horno 200', '200 grados', 'grados papel', 'papel manteca', 'manteca ahi', 'ahi agarre', 'agarre bien', 'bien bien', 'bien bien', 'bien ahi', 'ahi ven', 'ven ahi', 'ahi bien', 'bien pegadito', 'pegadito bien', 'bien bien', 'bien pegadito', 'pegadito vuelvo', 'vuelvo barnizar', 'barnizar aceitito', 'aceitito toda', 'toda superficie', 'superficie papel', 'papel ahi', 'ahi taca', 'taca taca', 'taca dejo', 'dejo aca', 'aca ladito', 'ladito vamos', 'vamos asi', 'asi seguimos', 'seguimos receta', 'receta vamos', 'vamos chusmear', 'chusmear com', 'com falta', 'falta todav', 'todav poquito', 'poquito mira', 'mira poquito', 'poquito va', 'va transformando', 'transformando gel', 'gel mira', 'mira vamos', 'vamos dejarle', 'dejarle cachetin', 'cachetin ahora', 'ahora seguimos', 'seguimos facil', 'facil mira', 'mira va', 'va hacer', 'hacer cookie', 'cookie craquer', 'craquer quede', 'quede bien', 'bien unida', 'unida entonces', 'entonces facil', 'facil agrego', 'agrego do', 'do tazas', 'tazas semillas', 'semillas ah', 'ah gem', 'gem semilla', 'semilla cañam', 'cañam si', 'si quieren', 'quieren usa', 'usa si', 'si quieren', 'quieren ponen', 'ponen semillas', 'semillas vos', 'vos prefieras', 'prefieras do', 'do tazas', 'tazas ahi', 'ahi poquito', 'poquito sal', 'sal contar', 'contar mira', 'mira voy', 'voy mostrar', 'mostrar mezclar', 'mezclar bien', 'bien bien', 'bien bien', 'bien gel', 'gel form', 'form haga', 'haga amalgame', 'amalgame bien', 'bien unido', 'unido voy', 'voy toda', 'toda delicia', 'delicia semillas', 'semillas placa', 'placa engrasamos', 'engrasamos recien', 'recien quiero', 'quiero fijar', 'fijar quede', 'quede bien', 'bien unido', 'unido mira', 'mira aca', 'aca placa', 'placa placa', 'placa f', 'f voy', 'voy tirar', 'tirar cubra', 'cubra toda', 'toda placa', 'placa va', 'va quedar', 'quedar finita', 'finita cosita', 'cosita deliciosa', 'deliciosa ultim', 'ultim aceitito', 'aceitito oliva', 'oliva palta', 'palta pincelamos', 'pincelamos toda', 'toda superficie', 'superficie quede', 'quede bien', 'bien crocante', 'crocante bien', 'bien bronceadita', 'bronceadita rico', 'rico rico', 'rico ahi', 'ahi voy', 'voy horno', 'horno horno', 'horno fuerte', 'fuerte voy', 'voy dejarlo', 'dejarlo ahi', 'ahi 25', '25 minutos', 'minutos aproximadamente', 'aproximadamente cada', 'cada horno', 'horno potencia', 'potencia asi', 'asi chequea', 'chequea queme', 'queme ponga', 'ponga apenas', 'apenas moradita', 'moradita va', 'va mirando', 'mirando aca', 'aca poquito', 'poquito sal', 'sal gruesita', 'gruesita espolvoreo', 'espolvoreo ahi', 'ahi opcional', 'opcional ahi', 'ahi jilo', 'jilo loca', 'loca se', 'se quien', 'quien pasando', 'pasando voy', 'voy belleza', 'belleza horno', 'horno ahora', 'ahora muestro', 'muestro bien', 'bien bronciaron', 'bronciaron semillitas', 'semillitas asi', 'asi vamos', 'vamos sacar', 'sacar placa', 'placa horno', 'horno vamos', 'vamos dejar', 'dejar enfriar', 'enfriar completo', 'completo toque', 'toque todav', 'todav va', 'va blandito', 'blandito escuchen', 'escuchen escuchen', 'escuchen ruido', 'ruido escuchen', 'escuchen escuchen', 'escuchen sonido', 'sonido amor', 'amor saben', 'saben olor', 'olor semillitas', 'semillitas dios', 'dios miren', 'miren vamos', 'vamos cortar', 'cortar tipo', 'tipo bestia', 'bestia mira', 'mira mira', 'mira chicas', 'chicas chico', 'chico delicioso', 'delicioso delicia', 'delicia bueno', 'bueno hacelo', 'hacelo hacelo', 'hacelo hagan', 'hagan hagan', 'hagan besote']"
+"Hoy les enseño a hacer las mejores chocolate chip cookies saludables.
+ Oigan, yo no sé si estas galletas queden buenas.
+ Una vez mi hermana las hizo y le pedí que me mandara la receta,
+ entonces voy a tratar de que me queden igual de ricas que hay.
+ Estos son los ingredientes que necesitamos.
+ Harina de almendras, chocolate, maple syrup, aceite de coco y extracto de vainilla.
+ Lo primero que necesitamos es harina de almendras.
+ La pueden sustituir por harina de harina normal o harina de avena, la que ustedes quieran.
+ Yo voy a usar harina de almendras.
+ Y voy a usar dos tazas.
+ Entonces, la primera taza.
+ En este momento ya precalenté el horno por media hora en 350 grados.
+ Entonces, dos tazas, primera taza.
+ Oigan, yo soy cero hasta ir grabando recetas.
+ Entonces, perdonenme.
+ Segunda taza.
+ Necesitamos...
+ Oigan, creo que la embarré.
+ Esperense que estoy grabando con mi celular y la receta está en mi celular.
+ Ya revisé la receta.
+ Primero tienen que mezclar los ingredientes secos.
+ Entonces, los únicos ingredientes secos son la harina de almendras
+ y un poquito de polvo para hornear.
+ Y voy a mezclar todo.
+ Van los ingredientes húmedos.
+ Acá ya tengo 4 cucharadas de aceite de coco.
+ Entonces, las voy a meter en la mezcla.
+ En nuestra mezcla.
+ Y las voy a incorporar muy bien.
+ Miren cómo se empieza a ver.
+ Vamos a poner un tercio de maple syrup.
+ Vamos.
+ Olviendo algo muy importante.
+ Un poquito de extracto de vainilla.
+ ¡Hijo de puta!
+ No, oigan, se me fue un chorro.
+ Se me fue el chorro de la vida.
+ Oigan, qué grave.
+ Esto va a terminar sabiendo muy fuerte.
+ ¡Hijo de puta!
+ Esto quedó pasado vainilla.
+ Pero pasado.
+ No, esto está muy invasivo.
+ ¿Será que le pongo más harina?
+ No, esto está muy grave.
+ Después del desastre, le ponen un poquito de papel para afinado a su molde
+ en donde van a poner sus galletas.
+ Una por una.
+ Y después le ponemos unas chips por encima.
+ Bueno, y ahora las vamos a meter en el horno.
+ Oigan, ahí las metí en el horno por 10 minutos.
+ Pero yo no sé si esto vaya a salir bien o mal.
+ Oigan, conclusión.
+ Que desastre de receta.
+ Me terminé comiendo todo el chocolate.
+ Metí una parte de las galletas en el horno,
+ otra parte de las galletas en el air fryer.
+ Oigan, miren cómo se ve esto.
+ O sea, explíquenme.
+ O sea, se me echamos con la mitad de las galletas.
+ Pero hay unas que sí quedaron ricas.
+ Oigan, no sé si fue porque la hice yo,
+ pero a mí me gustó.
+ Pero sí estaba demasiado vainilla.
+ O sea, se me fue la mano con la vainilla.
+ Pero la textura de la galleta que metí en el air fryer quedó melcochuda.
+ Increíble.
+",hoy enseñ hacer mejores chocolate chip cooky saludables oigan se si galletas queden buenas vez hermana hizo ped mandara receta entonces voy tratar queden igual ricas ingredientes necesitamos harina almendras chocolate maple syrup aceite coco extracto vainilla primero necesitamos harina almendras pueden sustituir harina harina normal harina avena ustedes quieran voy usar harina almendras voy usar do tazas entonces primera taza momento precalent horno medium hora 350 grados entonces do tazas primera taza oigan cero ir grabando recetas entonces perdonenme segunda taza necesitamos oigan creo embarr esperense grabando celular receta celular revis receta primero mezclar ingredientes secos entonces unic ingredientes secos harina almendras poquito polvo hornear voy mezclar van ingredientes humed aca 4 cucharadas aceite coco entonces voy meter mezcla mezcla voy incorporar bien miren com empieza ver vamos poner tercio maple syrup vamos olviendo importante poquito extracto vainilla hijo puta oigan chorro chorro vida oigan grave va terminar sabiendo fuerte hijo puta qued pasado vainilla pasado invasivo pongo harina grave despues desastre ponen poquito papel afinado molde van poner galletas despues ponemos unas chip encima bueno ahora vamos meter horno oigan ahi met horno 10 minutos se si vaya salir bien mal oigan conclusion desastre receta termin comiendo chocolate met parte galletas horno parte galletas air fryer oigan miren com expliquenm echamos mitad galletas unas quedaron ricas oigan se si hice gust demasiado vainilla mano vainilla textura galleta met air fryer qued melcochuda increibl,"['hoy enseñ', 'enseñ hacer', 'hacer mejores', 'mejores chocolate', 'chocolate chip', 'chip cooky', 'cooky saludables', 'saludables oigan', 'oigan se', 'se si', 'si galletas', 'galletas queden', 'queden buenas', 'buenas vez', 'vez hermana', 'hermana hizo', 'hizo ped', 'ped mandara', 'mandara receta', 'receta entonces', 'entonces voy', 'voy tratar', 'tratar queden', 'queden igual', 'igual ricas', 'ricas ingredientes', 'ingredientes necesitamos', 'necesitamos harina', 'harina almendras', 'almendras chocolate', 'chocolate maple', 'maple syrup', 'syrup aceite', 'aceite coco', 'coco extracto', 'extracto vainilla', 'vainilla primero', 'primero necesitamos', 'necesitamos harina', 'harina almendras', 'almendras pueden', 'pueden sustituir', 'sustituir harina', 'harina harina', 'harina normal', 'normal harina', 'harina avena', 'avena ustedes', 'ustedes quieran', 'quieran voy', 'voy usar', 'usar harina', 'harina almendras', 'almendras voy', 'voy usar', 'usar do', 'do tazas', 'tazas entonces', 'entonces primera', 'primera taza', 'taza momento', 'momento precalent', 'precalent horno', 'horno medium', 'medium hora', 'hora 350', '350 grados', 'grados entonces', 'entonces do', 'do tazas', 'tazas primera', 'primera taza', 'taza oigan', 'oigan cero', 'cero ir', 'ir grabando', 'grabando recetas', 'recetas entonces', 'entonces perdonenme', 'perdonenme segunda', 'segunda taza', 'taza necesitamos', 'necesitamos oigan', 'oigan creo', 'creo embarr', 'embarr esperense', 'esperense grabando', 'grabando celular', 'celular receta', 'receta celular', 'celular revis', 'revis receta', 'receta primero', 'primero mezclar', 'mezclar ingredientes', 'ingredientes secos', 'secos entonces', 'entonces unic', 'unic ingredientes', 'ingredientes secos', 'secos harina', 'harina almendras', 'almendras poquito', 'poquito polvo', 'polvo hornear', 'hornear voy', 'voy mezclar', 'mezclar van', 'van ingredientes', 'ingredientes humed', 'humed aca', 'aca 4', '4 cucharadas', 'cucharadas aceite', 'aceite coco', 'coco entonces', 'entonces voy', 'voy meter', 'meter mezcla', 'mezcla mezcla', 'mezcla voy', 'voy incorporar', 'incorporar bien', 'bien miren', 'miren com', 'com empieza', 'empieza ver', 'ver vamos', 'vamos poner', 'poner tercio', 'tercio maple', 'maple syrup', 'syrup vamos', 'vamos olviendo', 'olviendo importante', 'importante poquito', 'poquito extracto', 'extracto vainilla', 'vainilla hijo', 'hijo puta', 'puta oigan', 'oigan chorro', 'chorro chorro', 'chorro vida', 'vida oigan', 'oigan grave', 'grave va', 'va terminar', 'terminar sabiendo', 'sabiendo fuerte', 'fuerte hijo', 'hijo puta', 'puta qued', 'qued pasado', 'pasado vainilla', 'vainilla pasado', 'pasado invasivo', 'invasivo pongo', 'pongo harina', 'harina grave', 'grave despues', 'despues desastre', 'desastre ponen', 'ponen poquito', 'poquito papel', 'papel afinado', 'afinado molde', 'molde van', 'van poner', 'poner galletas', 'galletas despues', 'despues ponemos', 'ponemos unas', 'unas chip', 'chip encima', 'encima bueno', 'bueno ahora', 'ahora vamos', 'vamos meter', 'meter horno', 'horno oigan', 'oigan ahi', 'ahi met', 'met horno', 'horno 10', '10 minutos', 'minutos se', 'se si', 'si vaya', 'vaya salir', 'salir bien', 'bien mal', 'mal oigan', 'oigan conclusion', 'conclusion desastre', 'desastre receta', 'receta termin', 'termin comiendo', 'comiendo chocolate', 'chocolate met', 'met parte', 'parte galletas', 'galletas horno', 'horno parte', 'parte galletas', 'galletas air', 'air fryer', 'fryer oigan', 'oigan miren', 'miren com', 'com expliquenm', 'expliquenm echamos', 'echamos mitad', 'mitad galletas', 'galletas unas', 'unas quedaron', 'quedaron ricas', 'ricas oigan', 'oigan se', 'se si', 'si hice', 'hice gust', 'gust demasiado', 'demasiado vainilla', 'vainilla mano', 'mano vainilla', 'vainilla textura', 'textura galleta', 'galleta met', 'met air', 'air fryer', 'fryer qued', 'qued melcochuda', 'melcochuda increibl']"
+"Panenas de marisa, versión Marycooking con solo 7 ingredientes, 6 pasos y sin usar batidora.
+ Tengan cuidado porque son adictivas.
+ En un bowl mezcla el harina, mantequilla helada, azúcar y sal con las manos hasta que te quede
+ una mezcla arenosa.
+ Agrega poco a poco el agua helada hasta que esté integrado todo y te quede una
+ masa como te muestro en el video.
+ Forma bolitas y sobre una superficie enharinada aplasta con tus dedos hasta tener esta forma.
+ Barniza con huevo y azúcar y hornea a 200 grados por 20 minutos o hasta que
+ esté endorada.
+ Con dulce de leche, tapa y así de fácil y sencillo está listo siempre con Marycooking.
+ Sígueme para ver más recetas.
+",panenas marisa version marycooking solo 7 ingredientes 6 pasos usar batidora cuidado adictivas bowl mezcla harina mantequilla helada azuc sal manos quede mezcla arenosa agrega agua helada integrado quede masa muestro video forma bolitas superficie enharinada aplasta dedos tener forma barniza huevo azuc hornea 200 grados 20 minutos endorada dulce leche tapa asi facil sencillo listo siempre marycooking siguem ver recetas,"['panenas marisa', 'marisa version', 'version marycooking', 'marycooking solo', 'solo 7', '7 ingredientes', 'ingredientes 6', '6 pasos', 'pasos usar', 'usar batidora', 'batidora cuidado', 'cuidado adictivas', 'adictivas bowl', 'bowl mezcla', 'mezcla harina', 'harina mantequilla', 'mantequilla helada', 'helada azuc', 'azuc sal', 'sal manos', 'manos quede', 'quede mezcla', 'mezcla arenosa', 'arenosa agrega', 'agrega agua', 'agua helada', 'helada integrado', 'integrado quede', 'quede masa', 'masa muestro', 'muestro video', 'video forma', 'forma bolitas', 'bolitas superficie', 'superficie enharinada', 'enharinada aplasta', 'aplasta dedos', 'dedos tener', 'tener forma', 'forma barniza', 'barniza huevo', 'huevo azuc', 'azuc hornea', 'hornea 200', '200 grados', 'grados 20', '20 minutos', 'minutos endorada', 'endorada dulce', 'dulce leche', 'leche tapa', 'tapa asi', 'asi facil', 'facil sencillo', 'sencillo listo', 'listo siempre', 'siempre marycooking', 'marycooking siguem', 'siguem ver', 'ver recetas']"
+"crujientes de avena con sólo 7 ingredientes sin azúcar añadida. Necesitas un huevo, una cucharadita
+ de vainilla, media taza de guía, mantequilla o aceite de coco y mezcla. Después agrega una taza
+ y media de avena, media taza de harina de avena, una cucharadita de polvo para hornear y un cuarto
+ de taza de endulzante de tu preferencia. Posa la mezcla cinco minutos en el conje y después
+ forma las galletas y hornea por 20 minutos a 180 grados. Y listo, no olvides seguirme para
+ más recetas saludables.
+",crujientes avena sol 7 ingredientes azuc añad necesitas huevo cucharadita vainilla medium taza gui mantequilla aceite coco mezcla despues agrega taza medium avena medium taza harina avena cucharadita polvo hornear cuarto taza endulzante preferencia posa mezcla cinco minutos conje despues forma galletas hornea 20 minutos 180 grados listo olvides seguirme recetas saludables,"['crujientes avena', 'avena sol', 'sol 7', '7 ingredientes', 'ingredientes azuc', 'azuc añad', 'añad necesitas', 'necesitas huevo', 'huevo cucharadita', 'cucharadita vainilla', 'vainilla medium', 'medium taza', 'taza gui', 'gui mantequilla', 'mantequilla aceite', 'aceite coco', 'coco mezcla', 'mezcla despues', 'despues agrega', 'agrega taza', 'taza medium', 'medium avena', 'avena medium', 'medium taza', 'taza harina', 'harina avena', 'avena cucharadita', 'cucharadita polvo', 'polvo hornear', 'hornear cuarto', 'cuarto taza', 'taza endulzante', 'endulzante preferencia', 'preferencia posa', 'posa mezcla', 'mezcla cinco', 'cinco minutos', 'minutos conje', 'conje despues', 'despues forma', 'forma galletas', 'galletas hornea', 'hornea 20', '20 minutos', 'minutos 180', '180 grados', 'grados listo', 'listo olvides', 'olvides seguirme', 'seguirme recetas', 'recetas saludables']"
+"y aquí les va la receta de galletas de avena de mi mamá así que manos a la obra azúcar 80 de
+ mantequilla derretida una pizca de sal un poco de vainilla media cucharadita de canela mezclamos
+ dos huevos mezclamos 75 gramos de harina 4 gramos de polvo para hornear mezclamos 140
+ gramos de avena chispas de chocolate al gusto mezclamos y tenemos nuestra masa y ponemos
+ nuestra masa horneamos 15 minutos a 180 sacamos ayuda
+",aqu va receta galletas avena mam asi manos obra azuc 80 mantequilla derretida pizca sal vainilla medium cucharadita canela mezclamos do huevos mezclamos 75 gramos harina 4 gramos polvo hornear mezclamos 140 gramos avena chispas chocolate gusto mezclamos masa ponemos masa horneamos 15 minutos 180 sacamos ayuda,"['aqu va', 'va receta', 'receta galletas', 'galletas avena', 'avena mam', 'mam asi', 'asi manos', 'manos obra', 'obra azuc', 'azuc 80', '80 mantequilla', 'mantequilla derretida', 'derretida pizca', 'pizca sal', 'sal vainilla', 'vainilla medium', 'medium cucharadita', 'cucharadita canela', 'canela mezclamos', 'mezclamos do', 'do huevos', 'huevos mezclamos', 'mezclamos 75', '75 gramos', 'gramos harina', 'harina 4', '4 gramos', 'gramos polvo', 'polvo hornear', 'hornear mezclamos', 'mezclamos 140', '140 gramos', 'gramos avena', 'avena chispas', 'chispas chocolate', 'chocolate gusto', 'gusto mezclamos', 'mezclamos masa', 'masa ponemos', 'ponemos masa', 'masa horneamos', 'horneamos 15', '15 minutos', 'minutos 180', '180 sacamos', 'sacamos ayuda']"
+"Pues bien, hoy les voy a compartir la receta de estas ricas galletas de avena y les dejo como las
+ preparé. Vamos a necesitar un kilo de avena, taza y media de aceite de maíz, 400 gramos de azúcar
+ mascavado, 7 huevos, 200 gramos de coco, 200 gramos de semilla de calabaza, 200 gramos de
+ cacahuate, 200 gramos de nuez y un cuartito de harina. La avena la voy a dejar en una bolsa
+ con el aceite por cuatro horas para que nos queden muy doraditas y no nos queden porriosas
+ las galletas. Lo voy a revolver hasta que toda la avena se cubra de aceite. Ya que pasaron las
+ cuatro horas comenzamos a mezclar todo. Ya que está todo bien mezclado, comenzamos a hacer
+ las galletas con la cuchara de la nieve y un vaso. Muy bien, las galletas ya estuvieron,
+ las hornearé a 350 por 25 minutos.
+",pues bien hoy voy compartir receta ricas galletas avena dejo prep vamos necesitar kilo avena taza medium aceite maiz 400 gramos azuc mascavado 7 huevos 200 gramos coco 200 gramos semilla calabaza 200 gramos cacahuate 200 gramos nuez cuartito harina avena voy dejar bolsa aceite cuatro horas queden doraditas queden porriosas galletas voy revolver toda avena cubra aceite pasaron cuatro horas comenzamos mezclar bien mezclado comenzamos hacer galletas cuchara nieve vaso bien galletas horn 350 25 minutos,"['pues bien', 'bien hoy', 'hoy voy', 'voy compartir', 'compartir receta', 'receta ricas', 'ricas galletas', 'galletas avena', 'avena dejo', 'dejo prep', 'prep vamos', 'vamos necesitar', 'necesitar kilo', 'kilo avena', 'avena taza', 'taza medium', 'medium aceite', 'aceite maiz', 'maiz 400', '400 gramos', 'gramos azuc', 'azuc mascavado', 'mascavado 7', '7 huevos', 'huevos 200', '200 gramos', 'gramos coco', 'coco 200', '200 gramos', 'gramos semilla', 'semilla calabaza', 'calabaza 200', '200 gramos', 'gramos cacahuate', 'cacahuate 200', '200 gramos', 'gramos nuez', 'nuez cuartito', 'cuartito harina', 'harina avena', 'avena voy', 'voy dejar', 'dejar bolsa', 'bolsa aceite', 'aceite cuatro', 'cuatro horas', 'horas queden', 'queden doraditas', 'doraditas queden', 'queden porriosas', 'porriosas galletas', 'galletas voy', 'voy revolver', 'revolver toda', 'toda avena', 'avena cubra', 'cubra aceite', 'aceite pasaron', 'pasaron cuatro', 'cuatro horas', 'horas comenzamos', 'comenzamos mezclar', 'mezclar bien', 'bien mezclado', 'mezclado comenzamos', 'comenzamos hacer', 'hacer galletas', 'galletas cuchara', 'cuchara nieve', 'nieve vaso', 'vaso bien', 'bien galletas', 'galletas horn', 'horn 350', '350 25', '25 minutos']"
+" Las galletas con proteínas más baratas del mercado son peruanas.
+ El día de hoy Nutri-Co me ha mandado todos estos productos para mostrárselos.
+ Algo que se repite mucho es que una vida saludable es igual a una alimentación costosa.
+ Se relaciona comer bien con comer caro, y realmente no es así.
+ En este canal les he mostrado opciones baratas y llenas de proteínas en todas las áreas,
+ y hoy le tocan a las galletas.
+ Y bueno, estas son algunas de las galletas que tienen en su catálogo.
+ Esta por ejemplo son galletas de quinoa con maní, y estas son galletas de quinoa, ajo y cebolla.
+ Estas segundas, yo soy bien honesto, no suenan tan apetecibles.
+ Y bueno, en resumen, por paquete cada galleta te estaría saliendo entre 2, 2 soles, 50, 3 soles.
+ Tú puedes decir, Brian, 3 soles por una galleta, si yo me compro mi galleta de animalitos, que me sale un sol en la esquina.
+ Para que te hagas una idea, y supongo lo voy a estar poniendo en pantalla,
+ por cada 100 gramos de las galletas tienes 7.7 gramos de proteína.
+ Además, con respecto a los azúcares totales de la quinoa con maní, por ejemplo, tiene 9.6 gramos.
+ Galleta de quinoa, ajo y cebolla, 0.2.
+ Obviamente estas son opciones muchísimo más nutritivas, y que el precio no escapan para nada de una galleta convencional.
+ Ahora, podría ser eso de probarlas y decir, uy, mi reacción a las galletas,
+ pero acá no somos mentirosos, como les digo, yo he probado estas galletas antes porque yo soy muy fan de la marca.
+ Así que poneme a reaccionar y decir, mmmm, que rico, no, o sea, no tiene ningún sentido.
+ Gracias NutriCo por los alimentos nutritivos, accesibles y sostenibles.
+ Bueno, no te lo dije si te gusta levantar pesas a lo desgraciado, tienes que estar suscrito a este canal, y recuerda que...
+",galletas protein baratas mercado peruanas dia hoy nutrico mandado productos mostr repite vida saludable igual aliment costosa relaciona comer bien comer caro realmente asi canal mostrado opciones baratas llenas protein toda are hoy tocan galletas bueno galletas catalog ejemplo galletas quinoa man galletas quinoa ajo cebolla segundas bien honesto suenan tan apetecibles bueno resumen paquete cada galleta saliendo 2 2 sol 50 3 sol puedes decir brian 3 sol galleta si compro galleta animalitos sale sol esquina hagas idea supongo voy poniendo pantalla cada 100 gramos galletas 77 gramos protein ademas respecto azucar totales quinoa man ejemplo 96 gramos galleta quinoa ajo cebolla 02 obviamente opciones muchisim nutritivas precio escapan galleta convencional ahora podr ser probarlas decir uy reaccion galletas aca mentirosos digo probado galletas fan marca asi poneme reaccionar decir mmmm rico ningun gracias nutrico alimentos nutritivos accesibles sostenibles bueno dije si gusta levantar pesas desgraciado suscrito canal recuerda,"['galletas protein', 'protein baratas', 'baratas mercado', 'mercado peruanas', 'peruanas dia', 'dia hoy', 'hoy nutrico', 'nutrico mandado', 'mandado productos', 'productos mostr', 'mostr repite', 'repite vida', 'vida saludable', 'saludable igual', 'igual aliment', 'aliment costosa', 'costosa relaciona', 'relaciona comer', 'comer bien', 'bien comer', 'comer caro', 'caro realmente', 'realmente asi', 'asi canal', 'canal mostrado', 'mostrado opciones', 'opciones baratas', 'baratas llenas', 'llenas protein', 'protein toda', 'toda are', 'are hoy', 'hoy tocan', 'tocan galletas', 'galletas bueno', 'bueno galletas', 'galletas catalog', 'catalog ejemplo', 'ejemplo galletas', 'galletas quinoa', 'quinoa man', 'man galletas', 'galletas quinoa', 'quinoa ajo', 'ajo cebolla', 'cebolla segundas', 'segundas bien', 'bien honesto', 'honesto suenan', 'suenan tan', 'tan apetecibles', 'apetecibles bueno', 'bueno resumen', 'resumen paquete', 'paquete cada', 'cada galleta', 'galleta saliendo', 'saliendo 2', '2 2', '2 sol', 'sol 50', '50 3', '3 sol', 'sol puedes', 'puedes decir', 'decir brian', 'brian 3', '3 sol', 'sol galleta', 'galleta si', 'si compro', 'compro galleta', 'galleta animalitos', 'animalitos sale', 'sale sol', 'sol esquina', 'esquina hagas', 'hagas idea', 'idea supongo', 'supongo voy', 'voy poniendo', 'poniendo pantalla', 'pantalla cada', 'cada 100', '100 gramos', 'gramos galletas', 'galletas 77', '77 gramos', 'gramos protein', 'protein ademas', 'ademas respecto', 'respecto azucar', 'azucar totales', 'totales quinoa', 'quinoa man', 'man ejemplo', 'ejemplo 96', '96 gramos', 'gramos galleta', 'galleta quinoa', 'quinoa ajo', 'ajo cebolla', 'cebolla 02', '02 obviamente', 'obviamente opciones', 'opciones muchisim', 'muchisim nutritivas', 'nutritivas precio', 'precio escapan', 'escapan galleta', 'galleta convencional', 'convencional ahora', 'ahora podr', 'podr ser', 'ser probarlas', 'probarlas decir', 'decir uy', 'uy reaccion', 'reaccion galletas', 'galletas aca', 'aca mentirosos', 'mentirosos digo', 'digo probado', 'probado galletas', 'galletas fan', 'fan marca', 'marca asi', 'asi poneme', 'poneme reaccionar', 'reaccionar decir', 'decir mmmm', 'mmmm rico', 'rico ningun', 'ningun gracias', 'gracias nutrico', 'nutrico alimentos', 'alimentos nutritivos', 'nutritivos accesibles', 'accesibles sostenibles', 'sostenibles bueno', 'bueno dije', 'dije si', 'si gusta', 'gusta levantar', 'levantar pesas', 'pesas desgraciado', 'desgraciado suscrito', 'suscrito canal', 'canal recuerda']"
+"Hola bienvenidos a mi canal Cocinando con Raquel, pues saben que hoy no voy a cocinar afuera
+ o voy a hornear unas ricas galletas de avena y pues me hace falta todo, los ingredientes
+ vamos a ir a la tienda, así es que vámonos a desaburrirnos un poquito también, pues
+ ya me quito el mandil, ahorita nos lo volvemos a poner. Vamos, vamos a evitarlo.
+ Llegamos a la tienda, voy a agarrar nueces, pasas, ah, coco, coco, coco, ya tengo que llevarlo.
+ Azúcar
+ falta el aceite vegetal, el aceite de coco que se encontró en ese aceite de coco
+ ah, los catahuates también están ahí
+ miren lo que me encontré para preparar jericaya, para hornear jericaya y unas
+ gelatinas de coco son otro video. Y pues se va a necesitar aceite vegetal, puede ser de coco también.
+ Y la avena, la avena tiene que ser entera de esa.
+ Yo venía para las galletas, traía gujitos, tomates, cebollas, plátanos, pan para sándwich,
+ bueno pues ahí agarré varias cosas y la florecita.
+ Llegamos, así es que vamos a acomodar todo.
+ Pues ya voy a comenzar a separar el mandado y también voy a necesitar una báscula para
+ aprestar los ingredientes. Pues ya voy a comenzar con la receta, les voy a dar los
+ ingredientes en libras y en gramos. Voy a necesitar un kilo de avena entera que es
+ pasadito de dos libras, dos tazas de aceite vegetal, una libra de nueces, una libra de
+ cacahuates, una libra de coco, una libra de pasas, una libra de azúcar, que en gramos es
+ 450 gramos de cada cosa, y ocho huevos, cuatro cucharaditas de harina y manteca
+ vegetal para las charolas y cojita harina también. Ya voy a pesar los ingredientes,
+ este viene de una libra y este también, ya nada más lo demás lo voy a pesar.
+ Ahí es una libra, sí? Ah, pasadito, pasadito, ah la quito, otra, ahí está, se los tengo.
+ ¡Gracias por ver el vídeo!
+",hola bienvenidos canal cocinando raquel pues saben hoy voy cocinar afuera voy hornear unas ricas galletas avena pues hace falta ingredientes vamos ir tienda asi vamon desaburrirnos poquito pues quito mandil ahorita volvemos poner vamos vamos evitarlo llegamos tienda voy agarrar nueces pasas ah coco coco coco llevarlo azuc falta aceite vegetal aceite coco encontr aceite coco ah catahuates ahi miren encontr preparar jericaya hornear jericaya unas gelatinas coco video pues va necesitar aceite vegetal puede ser coco avena avena ser enteron ven galletas tra gujitos tomates cebollas platan pan sandwich bueno pues ahi agarr varias cosas florecita llegamos asi vamos acomodar pues voy comenzar separar mandado voy necesitar bascul aprestar ingredientes pues voy comenzar receta voy dar ingredientes libra gramos voy necesitar kilo avena enteron pasadito do libra do tazas aceite vegetal libra nueces libra cacahuates libra coco libra pasas libra azuc gramos 450 gramos cada cosa ocho huevos cuatro cucharaditas harina manteca vegetal charolas cojita harina voy pesar ingredientes viene libra demas voy pesar ahi libra ah pasadito pasadito ah quito ahi gracias ver vide,"['hola bienvenidos', 'bienvenidos canal', 'canal cocinando', 'cocinando raquel', 'raquel pues', 'pues saben', 'saben hoy', 'hoy voy', 'voy cocinar', 'cocinar afuera', 'afuera voy', 'voy hornear', 'hornear unas', 'unas ricas', 'ricas galletas', 'galletas avena', 'avena pues', 'pues hace', 'hace falta', 'falta ingredientes', 'ingredientes vamos', 'vamos ir', 'ir tienda', 'tienda asi', 'asi vamon', 'vamon desaburrirnos', 'desaburrirnos poquito', 'poquito pues', 'pues quito', 'quito mandil', 'mandil ahorita', 'ahorita volvemos', 'volvemos poner', 'poner vamos', 'vamos vamos', 'vamos evitarlo', 'evitarlo llegamos', 'llegamos tienda', 'tienda voy', 'voy agarrar', 'agarrar nueces', 'nueces pasas', 'pasas ah', 'ah coco', 'coco coco', 'coco coco', 'coco llevarlo', 'llevarlo azuc', 'azuc falta', 'falta aceite', 'aceite vegetal', 'vegetal aceite', 'aceite coco', 'coco encontr', 'encontr aceite', 'aceite coco', 'coco ah', 'ah catahuates', 'catahuates ahi', 'ahi miren', 'miren encontr', 'encontr preparar', 'preparar jericaya', 'jericaya hornear', 'hornear jericaya', 'jericaya unas', 'unas gelatinas', 'gelatinas coco', 'coco video', 'video pues', 'pues va', 'va necesitar', 'necesitar aceite', 'aceite vegetal', 'vegetal puede', 'puede ser', 'ser coco', 'coco avena', 'avena avena', 'avena ser', 'ser enteron', 'enteron ven', 'ven galletas', 'galletas tra', 'tra gujitos', 'gujitos tomates', 'tomates cebollas', 'cebollas platan', 'platan pan', 'pan sandwich', 'sandwich bueno', 'bueno pues', 'pues ahi', 'ahi agarr', 'agarr varias', 'varias cosas', 'cosas florecita', 'florecita llegamos', 'llegamos asi', 'asi vamos', 'vamos acomodar', 'acomodar pues', 'pues voy', 'voy comenzar', 'comenzar separar', 'separar mandado', 'mandado voy', 'voy necesitar', 'necesitar bascul', 'bascul aprestar', 'aprestar ingredientes', 'ingredientes pues', 'pues voy', 'voy comenzar', 'comenzar receta', 'receta voy', 'voy dar', 'dar ingredientes', 'ingredientes libra', 'libra gramos', 'gramos voy', 'voy necesitar', 'necesitar kilo', 'kilo avena', 'avena enteron', 'enteron pasadito', 'pasadito do', 'do libra', 'libra do', 'do tazas', 'tazas aceite', 'aceite vegetal', 'vegetal libra', 'libra nueces', 'nueces libra', 'libra cacahuates', 'cacahuates libra', 'libra coco', 'coco libra', 'libra pasas', 'pasas libra', 'libra azuc', 'azuc gramos', 'gramos 450', '450 gramos', 'gramos cada', 'cada cosa', 'cosa ocho', 'ocho huevos', 'huevos cuatro', 'cuatro cucharaditas', 'cucharaditas harina', 'harina manteca', 'manteca vegetal', 'vegetal charolas', 'charolas cojita', 'cojita harina', 'harina voy', 'voy pesar', 'pesar ingredientes', 'ingredientes viene', 'viene libra', 'libra demas', 'demas voy', 'voy pesar', 'pesar ahi', 'ahi libra', 'libra ah', 'ah pasadito', 'pasadito pasadito', 'pasadito ah', 'ah quito', 'quito ahi', 'ahi gracias', 'gracias ver', 'ver vide']"
+"Halloween cookie
+",halloween cookie,['halloween cookie']
+"So I'ma love you every night like it's the last night, like it's the last night
+ If the world was ending I'd wanna be next to you
+ If the party was over and our time off was through
+",ima love every night like last night like last night world ending id wanna next party time,"['ima love', 'love every', 'every night', 'night like', 'like last', 'last night', 'night like', 'like last', 'last night', 'night world', 'world ending', 'ending id', 'id wanna', 'wanna next', 'next party', 'party time']"
+"Ideas de citas parte 50, versión Halloween. Para la cita de hoy nos compramos este kit de decoración
+ de galletas de bake bar. Traes las galletas y todo lo que necesitas para decorarlas. Tienen
+ diferentes temáticas, tienen Halloween tradicional que es el que nosotros estamos haciendo, tienen
+ uno para hacer una casa embujada y otro de Merlina. Pusimos una película de Halloween
+ de fondo, sacamos todas las cosas para prepararlas y nos pusimos a decorar las galletas.
+ No nos aguantamos y nos comimos unas galletas en el camino. Estaban deliciosas, pasamos demasiado
+ rico, nos encantó, nos reímos demasiado. Fue la cita perfecta para una noche de viernes para
+ cerrar la semana y relajarnos un poquito. Ya terminamos de decorar y nos pusimos las
+ galletas terminando de ver la película. Espero que lo hagan, lo disfruten y nos vemos la próxima.
+",idea citas parte 50 version halloween cita hoy compramos kit decor galletas bake bar traes galletas necesitas decorarlas diferentes temat halloween tradicional haciendo hacer casa embujada merlina pusimos pelicul halloween fondo sacamos toda cosas prepararlas pusimos decorar galletas aguantamos comimos unas galletas camino deliciosas pasamos demasiado rico encant reim demasiado cita perfecta noche viernes cerrar semana relajarnos poquito terminamos decorar pusimos galletas terminando ver pelicul espero hagan disfruten vemos proxim,"['idea citas', 'citas parte', 'parte 50', '50 version', 'version halloween', 'halloween cita', 'cita hoy', 'hoy compramos', 'compramos kit', 'kit decor', 'decor galletas', 'galletas bake', 'bake bar', 'bar traes', 'traes galletas', 'galletas necesitas', 'necesitas decorarlas', 'decorarlas diferentes', 'diferentes temat', 'temat halloween', 'halloween tradicional', 'tradicional haciendo', 'haciendo hacer', 'hacer casa', 'casa embujada', 'embujada merlina', 'merlina pusimos', 'pusimos pelicul', 'pelicul halloween', 'halloween fondo', 'fondo sacamos', 'sacamos toda', 'toda cosas', 'cosas prepararlas', 'prepararlas pusimos', 'pusimos decorar', 'decorar galletas', 'galletas aguantamos', 'aguantamos comimos', 'comimos unas', 'unas galletas', 'galletas camino', 'camino deliciosas', 'deliciosas pasamos', 'pasamos demasiado', 'demasiado rico', 'rico encant', 'encant reim', 'reim demasiado', 'demasiado cita', 'cita perfecta', 'perfecta noche', 'noche viernes', 'viernes cerrar', 'cerrar semana', 'semana relajarnos', 'relajarnos poquito', 'poquito terminamos', 'terminamos decorar', 'decorar pusimos', 'pusimos galletas', 'galletas terminando', 'terminando ver', 'ver pelicul', 'pelicul espero', 'espero hagan', 'hagan disfruten', 'disfruten vemos', 'vemos proxim']"
+"¿Buscando las mejores galletas de Lime?
+",buscando mejores galletas lime,"['buscando mejores', 'mejores galletas', 'galletas lime']"
+"Thank you for watching!
+",thank watching,['thank watching']
+"Una sabrosura, compadre. Vamos a bailar.
+ Rico, sabroso y delicioso, así soy yo.
+ Las mujeres me lo dicen, cuando me miran pasar.
+ Al oído se mormuran, miren lo que rico está.
+ Pero no les hago caso, siempre muertas las traeré.
+",sabrosura compadre vamos bailar rico sabroso delicioso asi mujeres dicen miran pasar oid mormuran miren rico hago caso siempre muertas tra,"['sabrosura compadre', 'compadre vamos', 'vamos bailar', 'bailar rico', 'rico sabroso', 'sabroso delicioso', 'delicioso asi', 'asi mujeres', 'mujeres dicen', 'dicen miran', 'miran pasar', 'pasar oid', 'oid mormuran', 'mormuran miren', 'miren rico', 'rico hago', 'hago caso', 'caso siempre', 'siempre muertas', 'muertas tra']"
+" Las mejores galletas en Miraflores. Hoy fuimos a Cookies,
+ un espacio donde podemos comer las primeras galletas rellenas del Perú.
+ Se encuentra en José Domingo Choquehuanca 332 Miraflores.
+ Como pueden ver, tienen una gran variedad de rellenos y sabores.
+ En esta ocasión pedimos una galleta de manjar de olla y choco chip.
+ Ambas estuvieron deliciosas y frescas.
+ Sus locales son bastante acogedores, perfectas para disfrutar de una charla amena.
+ Aquí les dejo la carta para que vean sus precios.
+ También tienen versiones minis en packs por 12 y 24 unidades.
+ ¿Conocías este lugar? Déjalo en los comentarios.
+",mejores galletas miraflores hoy cooky espacio podemos comer primeras galletas rellenas peru encuentra jos domingo choquehuanca 332 miraflores pueden ver gran variedad rellenos sabores ocasion pedimos galleta manjar olla choco chip ambas deliciosas frescas locale bastante acogedores perfecta disfrutar charla amena aqu dejo carta vean precios versiones mini pack 12 24 unidades conoc lugar dejal comentarios,"['mejores galletas', 'galletas miraflores', 'miraflores hoy', 'hoy cooky', 'cooky espacio', 'espacio podemos', 'podemos comer', 'comer primeras', 'primeras galletas', 'galletas rellenas', 'rellenas peru', 'peru encuentra', 'encuentra jos', 'jos domingo', 'domingo choquehuanca', 'choquehuanca 332', '332 miraflores', 'miraflores pueden', 'pueden ver', 'ver gran', 'gran variedad', 'variedad rellenos', 'rellenos sabores', 'sabores ocasion', 'ocasion pedimos', 'pedimos galleta', 'galleta manjar', 'manjar olla', 'olla choco', 'choco chip', 'chip ambas', 'ambas deliciosas', 'deliciosas frescas', 'frescas locale', 'locale bastante', 'bastante acogedores', 'acogedores perfecta', 'perfecta disfrutar', 'disfrutar charla', 'charla amena', 'amena aqu', 'aqu dejo', 'dejo carta', 'carta vean', 'vean precios', 'precios versiones', 'versiones mini', 'mini pack', 'pack 12', '12 24', '24 unidades', 'unidades conoc', 'conoc lugar', 'lugar dejal', 'dejal comentarios']"
+"que al probar estos caracolitos literalmente me transporté a mi infancia
+ y no te preocupes si no tienes los moldes porque puedes hacerlos tranquilamente de aluminio
+ yo aquí hice unos grandes y otros pequeños
+ para la masa únicamente necesitas hojaldre y un poquito de agua para pegarlo
+ y para el relleno puedes utilizar manjar o esta deliciosa crema pastelera
+ la receta te la voy a dejar aquí en la descripción
+ yo te aconsejo que hagas esta receta y que no utilices la de los sobrecitos que son super amarillas
+ y además muy artificial
+ terminamos con un poquito de azúcar impalpable y listo
+",probar caracolito literalmente transport infancia preocupes si moldes puedes hacerlos tranquilamente aluminio aqu hice grandes pequeñ masa unic necesitas hojaldre poquito agua pegarlo relleno puedes utilizar manjar deliciosa crema pastelera receta voy dejar aqu descripcion aconsejo hagas receta utilices sobrecitos super amarillas ademas artificial terminamos poquito azuc impalpable listo,"['probar caracolito', 'caracolito literalmente', 'literalmente transport', 'transport infancia', 'infancia preocupes', 'preocupes si', 'si moldes', 'moldes puedes', 'puedes hacerlos', 'hacerlos tranquilamente', 'tranquilamente aluminio', 'aluminio aqu', 'aqu hice', 'hice grandes', 'grandes pequeñ', 'pequeñ masa', 'masa unic', 'unic necesitas', 'necesitas hojaldre', 'hojaldre poquito', 'poquito agua', 'agua pegarlo', 'pegarlo relleno', 'relleno puedes', 'puedes utilizar', 'utilizar manjar', 'manjar deliciosa', 'deliciosa crema', 'crema pastelera', 'pastelera receta', 'receta voy', 'voy dejar', 'dejar aqu', 'aqu descripcion', 'descripcion aconsejo', 'aconsejo hagas', 'hagas receta', 'receta utilices', 'utilices sobrecitos', 'sobrecitos super', 'super amarillas', 'amarillas ademas', 'ademas artificial', 'artificial terminamos', 'terminamos poquito', 'poquito azuc', 'azuc impalpable', 'impalpable listo']"
+"Hermana y hermano, últimamente te veo que cargas una sal como si tú fueras la que le hubieras pegado los latigazos a Jesús cuando lo estaban crucificando.
+ Y como yo aquí vengo, al dulcer de la vida para le bola a estos caballitos.
+ Levántate todas las papayas que puede y lo primero que vas a hacer es quitarle los concolitos.
+ Como tienes que deslecharla le vas a hacer unos cortes a lo largo.
+ Cinco minutos después le eches su respectiva lavada y empiezas a pelarla.
+ Ten en cuenta que lo ideal para este dulce es que tu papaya esté bien verde.
+ Mete el cuchillo por el medio y empieza a sacarle todas las pepas que tiene adentro.
+ Y ahí las vas a dejar tan limpias como tu bolsillo.
+ Posteriormente va a empezar a cortar tu papaya en tiritas.
+ Que si prefieres puedes pagarle un mandeso que carga un suete en el hombro, dos mil barras para que te pique toda esa papaya.
+ Luego de lavarla la vas a poner en un chocoro y le vas a poner suficiente agua para que se cocine.
+ De ahí la vas a sacar cuando ya tu papaya se ve así.
+ Ponla escurrida, la pasas por otro chocoro y el mismo agua con la que cocinaste la papaya te va a servir para que pongas a cocinar la canela y los clavitos.
+ La cantidad de azúcar que vas a echar va a depender de la cantidad de papaya, es decir por una libra de papaya una libra de azúcar.
+ Después de cinco minutos puedes empezar a sacar la canela y los clavitos.
+ Y como ya tu azúcar se está derritiendo es momento de que tires para dentro otra vez las papayas.
+ Si te metes en esta vaca loca de hace dulce sabes que obviamente el paloteo tiene que durar más o menos unos 40 minutos hasta que tu dulce se va así de sabroso.
+ En mi tierra los caballitos sí o sí se tienen que poner en una hoja de plátano y yo atrás nunca me voy a quedar.
+ Luego de cortar tu pedacito de hoja y limpiarla hermana y hermano mire cómo le cae encima ese caballito.
+ Esto es lo sabroso de que te quede bien melosito para que ahí cuando se seque ya puedes decir que aprendiste a hacer ese caballito que te encuentras en la playa.
+ Hermanas y hermanos y con esta delicia de caballito te doy las gracias por quedarte hasta el final aquí en Cocina y Macrame.
+ ¡Alto sabrosura!
+",hermana hermano ultim veo cargas sal si pegado latigazos jesus crucificando aqu vengo dulcer vida bola caballitos levantat toda papaya puede primero va hacer quitarle concolitos deslecharla va hacer cortes largo cinco minutos despues eches respectiva lavada empiezas pelarla ten cuenta ideal dulce papaya bien verde mete cuchillo medio empieza sacarle toda pepas adentro ahi va dejar tan limpias bolsillo posteriormente va empezar cortar papaya tiritas si prefieres puedes pagarle mandeso carga suete hombro do mil barras pique toda papaya luego lavarla va poner chocoro va poner suficiente agua cocine ahi va sacar papaya asi ponla escurrida pasas chocoro mismo agua cocinaste papaya va servir pongas cocinar canela clavitos cantidad azuc va echar va depender cantidad papaya decir libra papaya libra azuc despues cinco minutos puedes empezar sacar canela clavitos azuc derritiendo momento tire dentro vez papaya si mete vaca loca hace dulce sabes obviamente paloteo durar menos 40 minutos dulce va asi sabroso tierra caballitos poner hoja platan atras nunca voy quedar luego cortar pedacito hoja limpiarla hermana hermano mire com cae encima caballito sabroso quede bien melosito ahi seque puedes decir aprendiste hacer caballito encuentras playa hermanas hermanos delicia caballito doy gracias quedarte final aqu cocina macrame alto sabrosura,"['hermana hermano', 'hermano ultim', 'ultim veo', 'veo cargas', 'cargas sal', 'sal si', 'si pegado', 'pegado latigazos', 'latigazos jesus', 'jesus crucificando', 'crucificando aqu', 'aqu vengo', 'vengo dulcer', 'dulcer vida', 'vida bola', 'bola caballitos', 'caballitos levantat', 'levantat toda', 'toda papaya', 'papaya puede', 'puede primero', 'primero va', 'va hacer', 'hacer quitarle', 'quitarle concolitos', 'concolitos deslecharla', 'deslecharla va', 'va hacer', 'hacer cortes', 'cortes largo', 'largo cinco', 'cinco minutos', 'minutos despues', 'despues eches', 'eches respectiva', 'respectiva lavada', 'lavada empiezas', 'empiezas pelarla', 'pelarla ten', 'ten cuenta', 'cuenta ideal', 'ideal dulce', 'dulce papaya', 'papaya bien', 'bien verde', 'verde mete', 'mete cuchillo', 'cuchillo medio', 'medio empieza', 'empieza sacarle', 'sacarle toda', 'toda pepas', 'pepas adentro', 'adentro ahi', 'ahi va', 'va dejar', 'dejar tan', 'tan limpias', 'limpias bolsillo', 'bolsillo posteriormente', 'posteriormente va', 'va empezar', 'empezar cortar', 'cortar papaya', 'papaya tiritas', 'tiritas si', 'si prefieres', 'prefieres puedes', 'puedes pagarle', 'pagarle mandeso', 'mandeso carga', 'carga suete', 'suete hombro', 'hombro do', 'do mil', 'mil barras', 'barras pique', 'pique toda', 'toda papaya', 'papaya luego', 'luego lavarla', 'lavarla va', 'va poner', 'poner chocoro', 'chocoro va', 'va poner', 'poner suficiente', 'suficiente agua', 'agua cocine', 'cocine ahi', 'ahi va', 'va sacar', 'sacar papaya', 'papaya asi', 'asi ponla', 'ponla escurrida', 'escurrida pasas', 'pasas chocoro', 'chocoro mismo', 'mismo agua', 'agua cocinaste', 'cocinaste papaya', 'papaya va', 'va servir', 'servir pongas', 'pongas cocinar', 'cocinar canela', 'canela clavitos', 'clavitos cantidad', 'cantidad azuc', 'azuc va', 'va echar', 'echar va', 'va depender', 'depender cantidad', 'cantidad papaya', 'papaya decir', 'decir libra', 'libra papaya', 'papaya libra', 'libra azuc', 'azuc despues', 'despues cinco', 'cinco minutos', 'minutos puedes', 'puedes empezar', 'empezar sacar', 'sacar canela', 'canela clavitos', 'clavitos azuc', 'azuc derritiendo', 'derritiendo momento', 'momento tire', 'tire dentro', 'dentro vez', 'vez papaya', 'papaya si', 'si mete', 'mete vaca', 'vaca loca', 'loca hace', 'hace dulce', 'dulce sabes', 'sabes obviamente', 'obviamente paloteo', 'paloteo durar', 'durar menos', 'menos 40', '40 minutos', 'minutos dulce', 'dulce va', 'va asi', 'asi sabroso', 'sabroso tierra', 'tierra caballitos', 'caballitos poner', 'poner hoja', 'hoja platan', 'platan atras', 'atras nunca', 'nunca voy', 'voy quedar', 'quedar luego', 'luego cortar', 'cortar pedacito', 'pedacito hoja', 'hoja limpiarla', 'limpiarla hermana', 'hermana hermano', 'hermano mire', 'mire com', 'com cae', 'cae encima', 'encima caballito', 'caballito sabroso', 'sabroso quede', 'quede bien', 'bien melosito', 'melosito ahi', 'ahi seque', 'seque puedes', 'puedes decir', 'decir aprendiste', 'aprendiste hacer', 'hacer caballito', 'caballito encuentras', 'encuentras playa', 'playa hermanas', 'hermanas hermanos', 'hermanos delicia', 'delicia caballito', 'caballito doy', 'doy gracias', 'gracias quedarte', 'quedarte final', 'final aqu', 'aqu cocina', 'cocina macrame', 'macrame alto', 'alto sabrosura']"
+"Hola mi gente bonita hoy vamos a hacer unas cajetas de coco bien fácil de preparar yo
+ usé coco rallado del que ya ven en listo en la tienda también usé dos tazas de
+ azúcar morena y también podemos usar azúcar blanco es opcional también usé canela
+ al gusto una taza de agua y también vainilla al gusto ponemos a derretir el azúcar y cuando
+ ya esté bien espesita la miel le agregamos la canela y le agregamos el coco rallado y lo
+ empezamos a revolver bien hasta que se mezcle bien y tenemos que estar revolviendo revolviendo
+ meneando y meneando hasta que de su punto esto tiene que quedar bien caramelizado
+ aquí está dando su punto y con una cuchara vamos a lo que quepa en la cuchara vamos a
+ agarrar las bolitas y vamos a llevarla a un lugar limpio y ponerlas a secar un ratito
+ cuando ya están secas ya están listas para comer están bien ricas el olor que suelta
+ este coco con la canela es muy delicioso recordemos que es bien fácil preparar estas
+ cajetas y también es una buena idea para emprender un negocito de cajetas y que animes
+",hola gente bonita hoy vamos hacer unas cajetas coco bien facil preparar use coco rallado ven listo tienda use do tazas azuc morena podemos usar azuc blanco opcional use canela gusto taza agua vainilla gusto ponemos derretir azuc bien espesita miel agregamos canela agregamos coco rallado empezamos revolver bien mezcle bien revolviendo revolviendo meneando meneando punto quedar bien caramelizado aqu dando punto cuchara vamos quepa cuchara vamos agarrar bolitas vamos llevarla lugar limpio ponerlas secar ratito secas listas comer bien ricas olor suelta coco canela delicioso recordemos bien facil preparar cajetas buena idea emprender negocito cajetas anime,"['hola gente', 'gente bonita', 'bonita hoy', 'hoy vamos', 'vamos hacer', 'hacer unas', 'unas cajetas', 'cajetas coco', 'coco bien', 'bien facil', 'facil preparar', 'preparar use', 'use coco', 'coco rallado', 'rallado ven', 'ven listo', 'listo tienda', 'tienda use', 'use do', 'do tazas', 'tazas azuc', 'azuc morena', 'morena podemos', 'podemos usar', 'usar azuc', 'azuc blanco', 'blanco opcional', 'opcional use', 'use canela', 'canela gusto', 'gusto taza', 'taza agua', 'agua vainilla', 'vainilla gusto', 'gusto ponemos', 'ponemos derretir', 'derretir azuc', 'azuc bien', 'bien espesita', 'espesita miel', 'miel agregamos', 'agregamos canela', 'canela agregamos', 'agregamos coco', 'coco rallado', 'rallado empezamos', 'empezamos revolver', 'revolver bien', 'bien mezcle', 'mezcle bien', 'bien revolviendo', 'revolviendo revolviendo', 'revolviendo meneando', 'meneando meneando', 'meneando punto', 'punto quedar', 'quedar bien', 'bien caramelizado', 'caramelizado aqu', 'aqu dando', 'dando punto', 'punto cuchara', 'cuchara vamos', 'vamos quepa', 'quepa cuchara', 'cuchara vamos', 'vamos agarrar', 'agarrar bolitas', 'bolitas vamos', 'vamos llevarla', 'llevarla lugar', 'lugar limpio', 'limpio ponerlas', 'ponerlas secar', 'secar ratito', 'ratito secas', 'secas listas', 'listas comer', 'comer bien', 'bien ricas', 'ricas olor', 'olor suelta', 'suelta coco', 'coco canela', 'canela delicioso', 'delicioso recordemos', 'recordemos bien', 'bien facil', 'facil preparar', 'preparar cajetas', 'cajetas buena', 'buena idea', 'idea emprender', 'emprender negocito', 'negocito cajetas', 'cajetas anime']"
+"Banda Rafaga en acción en Santiago, Un Dameo.
+ Banda Rafaga en acción en Santiago, Un Dameo.
+ Banda Rafaga en acción en Santiago, Un Dameo.
+ Banda Rafaga en acción en Santiago, Un Dameo.
+ Banda Rafaga en acción en Santiago, Un Dameo.
+",banda rafaga accion santiago dameo banda rafaga accion santiago dameo banda rafaga accion santiago dameo banda rafaga accion santiago dameo banda rafaga accion santiago dameo,"['banda rafaga', 'rafaga accion', 'accion santiago', 'santiago dameo', 'dameo banda', 'banda rafaga', 'rafaga accion', 'accion santiago', 'santiago dameo', 'dameo banda', 'banda rafaga', 'rafaga accion', 'accion santiago', 'santiago dameo', 'dameo banda', 'banda rafaga', 'rafaga accion', 'accion santiago', 'santiago dameo', 'dameo banda', 'banda rafaga', 'rafaga accion', 'accion santiago', 'santiago dameo']"
+"de faltriquera o huevitos mollos. ¿Son típicos de guayaquil? Sí, de los bautizos, las primeras
+ comuniones y de los matrimonios. En esas mesas espectaculares uno se para frente a ellas y no
+ sabe por dónde comenzar. Aparte que se ven preciosas. También los hacen en manaví, sí,
+ con otros ingredientes. También en cuenca. Los he visto a la salida de la catedral en
+ esos puestos preciosos de dulces y flores y están ahí envueltos en papeles de colores y son
+ maravillosos. Para esta receta necesitan azúcar, huevos, leche evaporada, especias y un montón de
+ paciencia. Llevan su tiempo, sí, hay que revolver despacio, esperar a que se enfríen
+ para hacer las bolitas, pasarlo por azúcar impalpable y envolverlos. ¡Nada más!
+",faltriquera huevitos mollos tipic guayaquil bautizos primeras comuniones matrimonios mesa espectaculares frente sabe dond comenzar aparte ven preciosas hacen manav ingredientes cuenca visto salida catedral puestos preciosos dulces flores ahi envueltos papeles colores maravillosos receta necesitan azuc huevos leche evaporada especias monton paciencia llevan tiempo revolver despacio esperar enfri hacer bolitas pasarlo azuc impalpable envolverlos,"['faltriquera huevitos', 'huevitos mollos', 'mollos tipic', 'tipic guayaquil', 'guayaquil bautizos', 'bautizos primeras', 'primeras comuniones', 'comuniones matrimonios', 'matrimonios mesa', 'mesa espectaculares', 'espectaculares frente', 'frente sabe', 'sabe dond', 'dond comenzar', 'comenzar aparte', 'aparte ven', 'ven preciosas', 'preciosas hacen', 'hacen manav', 'manav ingredientes', 'ingredientes cuenca', 'cuenca visto', 'visto salida', 'salida catedral', 'catedral puestos', 'puestos preciosos', 'preciosos dulces', 'dulces flores', 'flores ahi', 'ahi envueltos', 'envueltos papeles', 'papeles colores', 'colores maravillosos', 'maravillosos receta', 'receta necesitan', 'necesitan azuc', 'azuc huevos', 'huevos leche', 'leche evaporada', 'evaporada especias', 'especias monton', 'monton paciencia', 'paciencia llevan', 'llevan tiempo', 'tiempo revolver', 'revolver despacio', 'despacio esperar', 'esperar enfri', 'enfri hacer', 'hacer bolitas', 'bolitas pasarlo', 'pasarlo azuc', 'azuc impalpable', 'impalpable envolverlos']"
+"Acompáñanos a preparar nuestra primera orden de galletas, en esta ocasión la
+ orden fueron dos galletas choco chips y dos classic red velvet, lo primero que
+ hacemos es pegarle nuestros logos a nuestras bolsitas de cellophane
+ donde vamos a empacar nuestras galletas, luego de eso que las tenemos todas listas
+ vamos a pegarle nuestro sticker con los ingredientes y la fecha de
+ elaboración de las galletas que confirman que están freshly baked
+ y la última
+ luego procedemos a empacar una a una y la sellamos con el mismo adhesivo de la bolsita de cellophane
+ y luego continuamos con las de red velvet, estas galletas están bastante frescas
+ acabadas de hornear y como estas galletas eran para entregar localmente las empacamos en una
+ bolsita de papel craft con nuestro logo claro que sí para identificar de dónde
+ vienen las galletas y listo listo para entregar a nuestro cliente no te olvides de que puedas
+ ordenar desde nuestra página ya
+",acompañan preparar primera orden galletas ocasion orden do galletas choco chip do classic red velvet primero hacemos pegarle logo bolsitas cellophane vamos empacar galletas luego toda listas vamos pegarle sticker ingredientes fecha elabor galletas confirman freshly baked ultim luego procedemos empacar sellamos mismo adhesivo bolsita cellophane luego continuamos red velvet galletas bastante frescas acabadas hornear galletas entregar localmente empacamos bolsita papel craft logo claro identificar dond vienen galletas listo listo entregar cliente olvides puedas ordenar pagin,"['acompañan preparar', 'preparar primera', 'primera orden', 'orden galletas', 'galletas ocasion', 'ocasion orden', 'orden do', 'do galletas', 'galletas choco', 'choco chip', 'chip do', 'do classic', 'classic red', 'red velvet', 'velvet primero', 'primero hacemos', 'hacemos pegarle', 'pegarle logo', 'logo bolsitas', 'bolsitas cellophane', 'cellophane vamos', 'vamos empacar', 'empacar galletas', 'galletas luego', 'luego toda', 'toda listas', 'listas vamos', 'vamos pegarle', 'pegarle sticker', 'sticker ingredientes', 'ingredientes fecha', 'fecha elabor', 'elabor galletas', 'galletas confirman', 'confirman freshly', 'freshly baked', 'baked ultim', 'ultim luego', 'luego procedemos', 'procedemos empacar', 'empacar sellamos', 'sellamos mismo', 'mismo adhesivo', 'adhesivo bolsita', 'bolsita cellophane', 'cellophane luego', 'luego continuamos', 'continuamos red', 'red velvet', 'velvet galletas', 'galletas bastante', 'bastante frescas', 'frescas acabadas', 'acabadas hornear', 'hornear galletas', 'galletas entregar', 'entregar localmente', 'localmente empacamos', 'empacamos bolsita', 'bolsita papel', 'papel craft', 'craft logo', 'logo claro', 'claro identificar', 'identificar dond', 'dond vienen', 'vienen galletas', 'galletas listo', 'listo listo', 'listo entregar', 'entregar cliente', 'cliente olvides', 'olvides puedas', 'puedas ordenar', 'ordenar pagin']"
+"Hola gente, aquí le voy a hacer la caja a mi hermano que la dejé para hoy, le voy a enseñar
+ los otros sabores que me pidió, pero ya tengo la de Fonfetti, el glaze se lo puse color azulito,
+ esta vez cambié y ya ustedes saben que esta galleta tiene mi bizcocho, tiene encima el
+ bizcocho, tiene obviamente la masa de galleta, tiene chocolate blanco, sprinkle, tiene golden
+ oreo, tiene mi bizcocho arriba y un poquito de sprinkle adicional. Esta galleta. Aquí queda.
+ Déjame buscar la caja para que vean los otros sabores que me pidió. Bueno gente,
+ él me pidió la de Kinder Bueno, que esta ha sido la sensación y yo les digo que esto con
+ un mantecado de vainilla preferiblemente o el de su preferencia es divino. A los que son
+ amantes del brownie, esa es la galleta que tiene que pedir. Pidió la Shonky, que es la de
+ Joguita & Cream y obviamente no hay ninguna orden que no pidan esta galleta que es la
+ de Avellana. Y él no ha probado mis merengues así que le voy a enviar unos merengues para
+ que lo disfruten porque su esposa ama la Nutella, así que les va a gustar mucho. Así que me falta
+ ponerle sticker a la nueva galleta. Ponemos su stickercito y aquí está la confeti lista.
+ Y nada, hacer su cajita para entonces enviárselo hoy y aquí va el Cookie Care con su orden.
+ Así que nada, seguimos. Entonces así que aquí están los merenguitos. Tiene la de
+ Funfetti, tiene la de Avellana, tiene la Shonky Cookies & Cream y obviamente está
+ la Kinder Bueno. Le colocamos aquí el Cookie Care obviamente y cerramos la cajita y ya está listo.
+",hola gente aqu voy hacer caja hermano dej hoy voy enseñ sabores pid fonfetti glaze puse color azulito vez cambi ustedes saben galleta bizcocho encima bizcocho obviamente masa galleta chocolate blanco sprinkle golden oreo bizcocho arriba poquito sprinkle adicional galleta aqu queda dejam buscar caja vean sabores pid bueno gente pid kinder bueno sido sensacion digo mantecado vainilla preferiblemente preferencia divino amantes brownie galleta pedir pid shonky joguita cream obviamente ninguna orden pidan galleta avellana probado merengues asi voy enviar merengues disfruten esposa ama nutella asi va gustar asi falta ponerle sticker nueva galleta ponemos stickercito aqu confeti lista hacer cajita entonces envi hoy aqu va cookie care orden asi seguimos entonces asi aqu merenguitos funfetti avellana shonky cooky cream obviamente kinder bueno colocamos aqu cookie care obviamente cerramos cajita listo,"['hola gente', 'gente aqu', 'aqu voy', 'voy hacer', 'hacer caja', 'caja hermano', 'hermano dej', 'dej hoy', 'hoy voy', 'voy enseñ', 'enseñ sabores', 'sabores pid', 'pid fonfetti', 'fonfetti glaze', 'glaze puse', 'puse color', 'color azulito', 'azulito vez', 'vez cambi', 'cambi ustedes', 'ustedes saben', 'saben galleta', 'galleta bizcocho', 'bizcocho encima', 'encima bizcocho', 'bizcocho obviamente', 'obviamente masa', 'masa galleta', 'galleta chocolate', 'chocolate blanco', 'blanco sprinkle', 'sprinkle golden', 'golden oreo', 'oreo bizcocho', 'bizcocho arriba', 'arriba poquito', 'poquito sprinkle', 'sprinkle adicional', 'adicional galleta', 'galleta aqu', 'aqu queda', 'queda dejam', 'dejam buscar', 'buscar caja', 'caja vean', 'vean sabores', 'sabores pid', 'pid bueno', 'bueno gente', 'gente pid', 'pid kinder', 'kinder bueno', 'bueno sido', 'sido sensacion', 'sensacion digo', 'digo mantecado', 'mantecado vainilla', 'vainilla preferiblemente', 'preferiblemente preferencia', 'preferencia divino', 'divino amantes', 'amantes brownie', 'brownie galleta', 'galleta pedir', 'pedir pid', 'pid shonky', 'shonky joguita', 'joguita cream', 'cream obviamente', 'obviamente ninguna', 'ninguna orden', 'orden pidan', 'pidan galleta', 'galleta avellana', 'avellana probado', 'probado merengues', 'merengues asi', 'asi voy', 'voy enviar', 'enviar merengues', 'merengues disfruten', 'disfruten esposa', 'esposa ama', 'ama nutella', 'nutella asi', 'asi va', 'va gustar', 'gustar asi', 'asi falta', 'falta ponerle', 'ponerle sticker', 'sticker nueva', 'nueva galleta', 'galleta ponemos', 'ponemos stickercito', 'stickercito aqu', 'aqu confeti', 'confeti lista', 'lista hacer', 'hacer cajita', 'cajita entonces', 'entonces envi', 'envi hoy', 'hoy aqu', 'aqu va', 'va cookie', 'cookie care', 'care orden', 'orden asi', 'asi seguimos', 'seguimos entonces', 'entonces asi', 'asi aqu', 'aqu merenguitos', 'merenguitos funfetti', 'funfetti avellana', 'avellana shonky', 'shonky cooky', 'cooky cream', 'cream obviamente', 'obviamente kinder', 'kinder bueno', 'bueno colocamos', 'colocamos aqu', 'aqu cookie', 'cookie care', 'care obviamente', 'obviamente cerramos', 'cerramos cajita', 'cajita listo']"
+"Hola, aquí les muestro un tip del por qué, yo recomiendo que calientes la galleta antes de consumirla
+ recuerden que el chocolate cuando vuelve a su estado natural es sólido
+ y por ende cuando vas a consumir tu galleta el chocolate va a estar sólido
+ yo recomiendo que lo lleves directamente al horno por unos 5 minutos
+ o en el refryer como estoy haciendo en este caso por unos 5 minutos a 400 grados
+ esto va a ayudar que el chocolate se ponga blandito y la galleta se disfrute como se lo hubiera acabado de hacer
+ miren esta deliciosa galleta que está rellena de Nutella
+ es una galleta de chocolate chip con masa de vainilla
+ miren lo blanditar que se expuso
+",hola aqu muestro tip recomiendo calientes galleta consumirla recuerden chocolate vuelve natural sol ende va consumir galleta chocolate va sol recomiendo lleves directamente horno 5 minutos refryer haciendo caso 5 minutos 400 grados va ayudar chocolate ponga blandito galleta disfrute acabado hacer miren deliciosa galleta rellena nutella galleta chocolate chip masa vainilla miren blanditar expuso,"['hola aqu', 'aqu muestro', 'muestro tip', 'tip recomiendo', 'recomiendo calientes', 'calientes galleta', 'galleta consumirla', 'consumirla recuerden', 'recuerden chocolate', 'chocolate vuelve', 'vuelve natural', 'natural sol', 'sol ende', 'ende va', 'va consumir', 'consumir galleta', 'galleta chocolate', 'chocolate va', 'va sol', 'sol recomiendo', 'recomiendo lleves', 'lleves directamente', 'directamente horno', 'horno 5', '5 minutos', 'minutos refryer', 'refryer haciendo', 'haciendo caso', 'caso 5', '5 minutos', 'minutos 400', '400 grados', 'grados va', 'va ayudar', 'ayudar chocolate', 'chocolate ponga', 'ponga blandito', 'blandito galleta', 'galleta disfrute', 'disfrute acabado', 'acabado hacer', 'hacer miren', 'miren deliciosa', 'deliciosa galleta', 'galleta rellena', 'rellena nutella', 'nutella galleta', 'galleta chocolate', 'chocolate chip', 'chip masa', 'masa vainilla', 'vainilla miren', 'miren blanditar', 'blanditar expuso']"
+"Oli, que oncha amistades del Facebook, como pueden ver el frío sigue aquí al hogar andem, tabasco, la lluvia, hasta créanme las inundaciones en parte de lo que son las rancherías y todo.
+ Ay, no he echándome mi café de olla.
+ Por cierto, allá una señora, vean, nada más ve. Venden delicias ahorita como para el frío, para remojar tu café. Ven pa' acá.
+ Si ven a la señora que pasa por la calle de su casa, cómprenme, porque con este frío, imagínense, anda haciendo la lucha, enmojándose, ganándose el pan de cada día.
+ Por eso, para que conozcan lo que son estas delicias de maravillas del mundo aquí en Tabasco, esto se le dice que bolillito, bizcocho, así como yo.
+ Nuégano, nuégano, este se llama nuégano. Esto igual sabe delicioso hasta con pozole.
+ ¡Ricura!
+ ¿Y esto? ¿Para qué? Esto es queque, queque, así se llama aquí, queque. Y también hay unas galletitas de limón, pero pues ya se le terminó.
+ Y pues la verdad, esto está, ay, no, no, no, no, no. ¿Para qué les digo? Y pues les vuelvo a repetir, ven a la señora, cómprenle a mi amistad.
+ Y no se van a arrepentir, es que ¿quién lo dice? Chabolín. Por eso, por eso, no fingan, no creo que no tengan 10 pesitos en la bolsa.
+ ¡Nos vemos con permua!
+",oli oncha amistades facebook pueden ver fri sigue aqu hogar andem tabasco lluvia creanm inundaciones parte ranch ay echandom caf olla cierto alla señor vean venden delicias ahorita fri remojar caf ven pa aca si ven señor pasa calle casa comprenm fri imaginens anda haciendo lucha enmoj gan pan cada dia conozcan delicias maravilla mundo aqu tabasco dice bolillito bizcocho asi nuegan nuegan llama nuegan igual sabe delicioso pozole ricura queque queque asi llama aqu queque unas galletitas limon pues termin pues verdad ay digo pues vuelvo repetir ven señor comprenl amistad van arrepentir quien dice chabolin fingan creo 10 pesitos bolsa vemos permua,"['oli oncha', 'oncha amistades', 'amistades facebook', 'facebook pueden', 'pueden ver', 'ver fri', 'fri sigue', 'sigue aqu', 'aqu hogar', 'hogar andem', 'andem tabasco', 'tabasco lluvia', 'lluvia creanm', 'creanm inundaciones', 'inundaciones parte', 'parte ranch', 'ranch ay', 'ay echandom', 'echandom caf', 'caf olla', 'olla cierto', 'cierto alla', 'alla señor', 'señor vean', 'vean venden', 'venden delicias', 'delicias ahorita', 'ahorita fri', 'fri remojar', 'remojar caf', 'caf ven', 'ven pa', 'pa aca', 'aca si', 'si ven', 'ven señor', 'señor pasa', 'pasa calle', 'calle casa', 'casa comprenm', 'comprenm fri', 'fri imaginens', 'imaginens anda', 'anda haciendo', 'haciendo lucha', 'lucha enmoj', 'enmoj gan', 'gan pan', 'pan cada', 'cada dia', 'dia conozcan', 'conozcan delicias', 'delicias maravilla', 'maravilla mundo', 'mundo aqu', 'aqu tabasco', 'tabasco dice', 'dice bolillito', 'bolillito bizcocho', 'bizcocho asi', 'asi nuegan', 'nuegan nuegan', 'nuegan llama', 'llama nuegan', 'nuegan igual', 'igual sabe', 'sabe delicioso', 'delicioso pozole', 'pozole ricura', 'ricura queque', 'queque queque', 'queque asi', 'asi llama', 'llama aqu', 'aqu queque', 'queque unas', 'unas galletitas', 'galletitas limon', 'limon pues', 'pues termin', 'termin pues', 'pues verdad', 'verdad ay', 'ay digo', 'digo pues', 'pues vuelvo', 'vuelvo repetir', 'repetir ven', 'ven señor', 'señor comprenl', 'comprenl amistad', 'amistad van', 'van arrepentir', 'arrepentir quien', 'quien dice', 'dice chabolin', 'chabolin fingan', 'fingan creo', 'creo 10', '10 pesitos', 'pesitos bolsa', 'bolsa vemos', 'vemos permua']"
+"La ultima vez que hice esta galletas no duraron ni 24 horas, así que les voy a mostrar como hacerlas
+ Empiezan por dorar 3 cuartos de taza de mantequilla, eso va a hacer toda la diferencia, le va a dar como un sabor a nuez a la masa
+ Le agregan a un bodo junto con una taza de azúcar morena y un cuarto de taza de azúcar blanca
+ Un chorrito de vainilla, eso no se mide, lo que su corazón les diga
+ Y un huevo entero y la yema de un huevo
+ Incorporan todo y agregamos una y tres cuartos de taza de harina, tres cuartos de cucharadita de bicarbonato de sodio y una cucharadita de sal
+ Mezclen todo hasta que se incorpore, pero no lo sobrebatan para que no queden esponjosas
+ Y por ultimo la mejor parte, dos tazas de chips de chocolate, a mi me gusta usarlas semi-sweet, pero pueden usarlas que ustedes quieran
+ Una vez terminen la masa, la pueden dejar reposar media hora en la nevera, yo esta vez no lo hice y quedaron igual de ricas
+ Ponemos las bolitas encima de papel per camino para que no se peguen y las metemos al horno por 15 minutos a 350 F
+",ultima vez hice galletas duraron 24 horas asi voy mostrar hacerlas empiezan dorar 3 cuartos taza mantequilla va hacer toda diferencia va dar sabor nuez masa agregan bodo junto taza azuc morena cuarto taza azuc blanca chorrito vainilla mide corazon diga huevo entero yema huevo incorporan agregamos tres cuartos taza harina tres cuartos cucharadita bicarbonato sodio cucharadita sal mezclen incorpore sobrebatan queden esponjosas ultimo mejor parte do tazas chip chocolate gusta usarlas semisweet pueden usarlas ustedes quieran vez terminen masa pueden dejar reposar medium hora nevera vez hice quedaron igual ricas ponemos bolitas encima papel per camino peguen metemos horno 15 minutos 350 f,"['ultima vez', 'vez hice', 'hice galletas', 'galletas duraron', 'duraron 24', '24 horas', 'horas asi', 'asi voy', 'voy mostrar', 'mostrar hacerlas', 'hacerlas empiezan', 'empiezan dorar', 'dorar 3', '3 cuartos', 'cuartos taza', 'taza mantequilla', 'mantequilla va', 'va hacer', 'hacer toda', 'toda diferencia', 'diferencia va', 'va dar', 'dar sabor', 'sabor nuez', 'nuez masa', 'masa agregan', 'agregan bodo', 'bodo junto', 'junto taza', 'taza azuc', 'azuc morena', 'morena cuarto', 'cuarto taza', 'taza azuc', 'azuc blanca', 'blanca chorrito', 'chorrito vainilla', 'vainilla mide', 'mide corazon', 'corazon diga', 'diga huevo', 'huevo entero', 'entero yema', 'yema huevo', 'huevo incorporan', 'incorporan agregamos', 'agregamos tres', 'tres cuartos', 'cuartos taza', 'taza harina', 'harina tres', 'tres cuartos', 'cuartos cucharadita', 'cucharadita bicarbonato', 'bicarbonato sodio', 'sodio cucharadita', 'cucharadita sal', 'sal mezclen', 'mezclen incorpore', 'incorpore sobrebatan', 'sobrebatan queden', 'queden esponjosas', 'esponjosas ultimo', 'ultimo mejor', 'mejor parte', 'parte do', 'do tazas', 'tazas chip', 'chip chocolate', 'chocolate gusta', 'gusta usarlas', 'usarlas semisweet', 'semisweet pueden', 'pueden usarlas', 'usarlas ustedes', 'ustedes quieran', 'quieran vez', 'vez terminen', 'terminen masa', 'masa pueden', 'pueden dejar', 'dejar reposar', 'reposar medium', 'medium hora', 'hora nevera', 'nevera vez', 'vez hice', 'hice quedaron', 'quedaron igual', 'igual ricas', 'ricas ponemos', 'ponemos bolitas', 'bolitas encima', 'encima papel', 'papel per', 'per camino', 'camino peguen', 'peguen metemos', 'metemos horno', 'horno 15', '15 minutos', 'minutos 350', '350 f']"
+"Hola, hoy voy a hacer estas riquísimas galletas. Aquí te muestro los ingredientes. Voy a necesitar
+ dos tazas de harina todo usos, media taza de maicena, una taza de azúcar glass, un cuarto
+ de taza de aceite vegetal, una barra y media de mantequilla, un huevo, una cucharadita de
+ vainilla y una pizca de sal y mermelada de fresa. Esta es horneable. En un bol voy a poner
+ la mantequilla y voy a comenzar a cremarla. Ahora voy a ir agregando los ingredientes.
+ La mantequilla tiene que estar a temperatura ambiente. Voy a mezclar con la espátula.
+ Voy a agregar las dos tazas de harina. Las voy a pasar por un sedazo. Esto es para que las
+ galletas queden suaves y esponjosas. También voy a poner allí el azúcar glass y la pizca de
+ sal y voy a continuar amasando. Ahora le voy a poner la cucharadita de vainilla. Así es como
+ quedó la masa. Yo voy a utilizar la duya B6 y con una manga pastelera voy a comenzar a hacer
+ las galletitas. Ya aquí depende del tamaño que tú las quieras hacer.
+ Ahora con una cucharita medidora les voy a hacer el centro.
+ Con esta manga pastelera voy a ponerles la mermelada. Con la cantidad de estos ingredientes a mí me
+ estuvieron saliendo 62 galletitas. Las voy a llevar a hornear por 25 minutos a 350 grados
+ Fahrenheit. Aquí ya están las galletitas. Aquí te las muestro cómo quedaron. Si las
+ quieres para la venta, aquí te muestro esta idea. Muchísimas gracias por haber mirado esta
+ receta.
+",hola hoy voy hacer riquisim galletas aqu muestro ingredientes voy necesitar do tazas harina usos medium taza maicena taza azuc glass cuarto taza aceite vegetal barra medium mantequilla huevo cucharadita vainilla pizca sal mermelada fresa horneable bol voy poner mantequilla voy comenzar cremarla ahora voy ir agregando ingredientes mantequilla temperatura ambiente voy mezclar espatul voy agregar do tazas harina voy pasar sedazo galletas queden suaves esponjosas voy poner alli azuc glass pizca sal voy continuar amasando ahora voy poner cucharadita vainilla asi qued masa voy utilizar duya b6 manga pastelera voy comenzar hacer galletitas aqu depende tamañ quieras hacer ahora cucharita medidora voy hacer centro manga pastelera voy ponerles mermelada cantidad ingredientes saliendo 62 galletitas voy llevar hornear 25 minutos 350 grados fahrenheit aqu galletitas aqu muestro com quedaron si quieres venta aqu muestro idea muchisim gracias haber mirado receta,"['hola hoy', 'hoy voy', 'voy hacer', 'hacer riquisim', 'riquisim galletas', 'galletas aqu', 'aqu muestro', 'muestro ingredientes', 'ingredientes voy', 'voy necesitar', 'necesitar do', 'do tazas', 'tazas harina', 'harina usos', 'usos medium', 'medium taza', 'taza maicena', 'maicena taza', 'taza azuc', 'azuc glass', 'glass cuarto', 'cuarto taza', 'taza aceite', 'aceite vegetal', 'vegetal barra', 'barra medium', 'medium mantequilla', 'mantequilla huevo', 'huevo cucharadita', 'cucharadita vainilla', 'vainilla pizca', 'pizca sal', 'sal mermelada', 'mermelada fresa', 'fresa horneable', 'horneable bol', 'bol voy', 'voy poner', 'poner mantequilla', 'mantequilla voy', 'voy comenzar', 'comenzar cremarla', 'cremarla ahora', 'ahora voy', 'voy ir', 'ir agregando', 'agregando ingredientes', 'ingredientes mantequilla', 'mantequilla temperatura', 'temperatura ambiente', 'ambiente voy', 'voy mezclar', 'mezclar espatul', 'espatul voy', 'voy agregar', 'agregar do', 'do tazas', 'tazas harina', 'harina voy', 'voy pasar', 'pasar sedazo', 'sedazo galletas', 'galletas queden', 'queden suaves', 'suaves esponjosas', 'esponjosas voy', 'voy poner', 'poner alli', 'alli azuc', 'azuc glass', 'glass pizca', 'pizca sal', 'sal voy', 'voy continuar', 'continuar amasando', 'amasando ahora', 'ahora voy', 'voy poner', 'poner cucharadita', 'cucharadita vainilla', 'vainilla asi', 'asi qued', 'qued masa', 'masa voy', 'voy utilizar', 'utilizar duya', 'duya b6', 'b6 manga', 'manga pastelera', 'pastelera voy', 'voy comenzar', 'comenzar hacer', 'hacer galletitas', 'galletitas aqu', 'aqu depende', 'depende tamañ', 'tamañ quieras', 'quieras hacer', 'hacer ahora', 'ahora cucharita', 'cucharita medidora', 'medidora voy', 'voy hacer', 'hacer centro', 'centro manga', 'manga pastelera', 'pastelera voy', 'voy ponerles', 'ponerles mermelada', 'mermelada cantidad', 'cantidad ingredientes', 'ingredientes saliendo', 'saliendo 62', '62 galletitas', 'galletitas voy', 'voy llevar', 'llevar hornear', 'hornear 25', '25 minutos', 'minutos 350', '350 grados', 'grados fahrenheit', 'fahrenheit aqu', 'aqu galletitas', 'galletitas aqu', 'aqu muestro', 'muestro com', 'com quedaron', 'quedaron si', 'si quieres', 'quieres venta', 'venta aqu', 'aqu muestro', 'muestro idea', 'idea muchisim', 'muchisim gracias', 'gracias haber', 'haber mirado', 'mirado receta']"
+"Si te gustan los postres fáciles, debes intentar estas galletas de mantequilla super lindas con mermelada
+ Lo mejor es que están listas en menos de 30 minutos y quedan deliciosas
+ Entonces, en un tazón ponemos mantequilla a temperatura ambiente y la batimos un poco
+ Después le vamos a agregar azúcar glass, integramos super bien para después agregarle una yema de huevo y extracto de vainilla
+ Por último, tamizamos harina, fécula de maíz y un poco de polvo de hornear
+ Vamos a mezclar hasta que se nos forme una masita como esta
+ Para que esté más manejable, la refrigeramos por unos 10 minutos y después hacemos unas bolitas pequeñas
+ Primero las aplastamos y después con nuestro dedo vamos a hacer la forma del corazón
+ Cuando ya tengamos todas nuestras galletas marcadas, ahora sí las vamos a rellenar con un poco de mermelada de fresa
+ Y mi momento favorito, vamos a hornearlas
+ En mi horno eléctrico ninja, puse la función de hornear y las deje a 175 grados centígrados por unos 14 minutos
+ O hasta que se vean más doraditas
+ Y no, no, no, me encantó como se hornearon super lindas
+ En serio, las deben de intentar, quedan deliciosas
+",si gustan postres facil debes intentar galletas mantequilla super lindas mermelada mejor listas menos 30 minutos quedan deliciosas entonces tazon ponemos mantequilla temperatura ambiente batimos despues vamos agregar azuc glass integramos super bien despues agregarle yema huevo extracto vainilla ultim tamizamos harina fecul maiz polvo hornear vamos mezclar forme masita manejable refrigeramos 10 minutos despues hacemos unas bolitas pequeñ primero aplastamos despues dedo vamos hacer forma corazon toda galletas marcadas ahora vamos rellenar mermelada fresa momento favorito vamos hornearlas horno electr ninja puse funcion hornear deje 175 grados centigr 14 minutos vean doraditas encant hornearon super lindas serio deben intentar quedan deliciosas,"['si gustan', 'gustan postres', 'postres facil', 'facil debes', 'debes intentar', 'intentar galletas', 'galletas mantequilla', 'mantequilla super', 'super lindas', 'lindas mermelada', 'mermelada mejor', 'mejor listas', 'listas menos', 'menos 30', '30 minutos', 'minutos quedan', 'quedan deliciosas', 'deliciosas entonces', 'entonces tazon', 'tazon ponemos', 'ponemos mantequilla', 'mantequilla temperatura', 'temperatura ambiente', 'ambiente batimos', 'batimos despues', 'despues vamos', 'vamos agregar', 'agregar azuc', 'azuc glass', 'glass integramos', 'integramos super', 'super bien', 'bien despues', 'despues agregarle', 'agregarle yema', 'yema huevo', 'huevo extracto', 'extracto vainilla', 'vainilla ultim', 'ultim tamizamos', 'tamizamos harina', 'harina fecul', 'fecul maiz', 'maiz polvo', 'polvo hornear', 'hornear vamos', 'vamos mezclar', 'mezclar forme', 'forme masita', 'masita manejable', 'manejable refrigeramos', 'refrigeramos 10', '10 minutos', 'minutos despues', 'despues hacemos', 'hacemos unas', 'unas bolitas', 'bolitas pequeñ', 'pequeñ primero', 'primero aplastamos', 'aplastamos despues', 'despues dedo', 'dedo vamos', 'vamos hacer', 'hacer forma', 'forma corazon', 'corazon toda', 'toda galletas', 'galletas marcadas', 'marcadas ahora', 'ahora vamos', 'vamos rellenar', 'rellenar mermelada', 'mermelada fresa', 'fresa momento', 'momento favorito', 'favorito vamos', 'vamos hornearlas', 'hornearlas horno', 'horno electr', 'electr ninja', 'ninja puse', 'puse funcion', 'funcion hornear', 'hornear deje', 'deje 175', '175 grados', 'grados centigr', 'centigr 14', '14 minutos', 'minutos vean', 'vean doraditas', 'doraditas encant', 'encant hornearon', 'hornearon super', 'super lindas', 'lindas serio', 'serio deben', 'deben intentar', 'intentar quedan', 'quedan deliciosas']"
+"Espera, mira cómo se preparan, las irresistibles galletas de mantequilla.
+ Receta está en la descripción, así que guárdala.
+ Puedes usar el sabor de mermelada que te guste.
+ ¡Mira qué bonitas quedaron!
+ Sígeme para ideas de repostería.
+",espera mira com preparan irresistibles galletas mantequilla receta descripcion asi guardal puedes usar sabor mermelada guste mira bonitas quedaron sigem idea repost,"['espera mira', 'mira com', 'com preparan', 'preparan irresistibles', 'irresistibles galletas', 'galletas mantequilla', 'mantequilla receta', 'receta descripcion', 'descripcion asi', 'asi guardal', 'guardal puedes', 'puedes usar', 'usar sabor', 'sabor mermelada', 'mermelada guste', 'guste mira', 'mira bonitas', 'bonitas quedaron', 'quedaron sigem', 'sigem idea', 'idea repost']"
+"Estas son las galletitas más fáciles y deliciosas que vas a probar.
+ Mezcla dos barras de mantequilla a temperatura ambiente
+ con media taza de leche condensada.
+ Cuando esté todo bien incorporado agrega dos tazas de harina de trigo
+ y mezcla hasta formar una pasta.
+ Con tus manos forma bolitas
+ y pásalas por una mezcla de azúcar y canela.
+ Llévalas a una charola o a un recipiente apto para horno
+ y con la ayuda de un tenedor presiónalas.
+ Hornealas por 15 minutos a 180 grados
+ y listo ahora sí a disfrutar esta delicia de galletas.
+",galletitas facil deliciosas va probar mezcla do barras mantequilla temperatura ambiente medium taza leche condensada bien incorporado agrega do tazas harina trigo mezcla formar pasta manos forma bolitas pasal mezcla azuc canela lleval charola recipiente apto horno ayuda tenedor presional hornealas 15 minutos 180 grados listo ahora disfrutar delicia galletas,"['galletitas facil', 'facil deliciosas', 'deliciosas va', 'va probar', 'probar mezcla', 'mezcla do', 'do barras', 'barras mantequilla', 'mantequilla temperatura', 'temperatura ambiente', 'ambiente medium', 'medium taza', 'taza leche', 'leche condensada', 'condensada bien', 'bien incorporado', 'incorporado agrega', 'agrega do', 'do tazas', 'tazas harina', 'harina trigo', 'trigo mezcla', 'mezcla formar', 'formar pasta', 'pasta manos', 'manos forma', 'forma bolitas', 'bolitas pasal', 'pasal mezcla', 'mezcla azuc', 'azuc canela', 'canela lleval', 'lleval charola', 'charola recipiente', 'recipiente apto', 'apto horno', 'horno ayuda', 'ayuda tenedor', 'tenedor presional', 'presional hornealas', 'hornealas 15', '15 minutos', 'minutos 180', '180 grados', 'grados listo', 'listo ahora', 'ahora disfrutar', 'disfrutar delicia', 'delicia galletas']"
+"Galletas tipo crumble cookies llegaron a Perú y hoy te voy a enseñar dónde encontrarlo.
+ Llegamos al patio de comidas y al final de pasillos se encuentran nuestras galletas favoritas.
+ Acabo de ver que hay más de 20 sabores de galletas y ahora por cuál me decido.
+ Me pedí cuatro galletas de diferentes sabores, frutos rojos, monster, dirty cookie y pistachios.
+ Me encantaron y ahora coméntame tú con quién vendrías a comer estas crumble peruanas.
+",galletas tipo crumble cooky llegaron peru hoy voy enseñ dond encontrarlo llegamos patio comidas final pasillos encuentran galletas favoritas acabo ver 20 sabores galletas ahora cual decido ped cuatro galletas diferentes sabores frutos rojos monster dirty cookie pistachio encantaron ahora comentam quien vendr comer crumble peruanas,"['galletas tipo', 'tipo crumble', 'crumble cooky', 'cooky llegaron', 'llegaron peru', 'peru hoy', 'hoy voy', 'voy enseñ', 'enseñ dond', 'dond encontrarlo', 'encontrarlo llegamos', 'llegamos patio', 'patio comidas', 'comidas final', 'final pasillos', 'pasillos encuentran', 'encuentran galletas', 'galletas favoritas', 'favoritas acabo', 'acabo ver', 'ver 20', '20 sabores', 'sabores galletas', 'galletas ahora', 'ahora cual', 'cual decido', 'decido ped', 'ped cuatro', 'cuatro galletas', 'galletas diferentes', 'diferentes sabores', 'sabores frutos', 'frutos rojos', 'rojos monster', 'monster dirty', 'dirty cookie', 'cookie pistachio', 'pistachio encantaron', 'encantaron ahora', 'ahora comentam', 'comentam quien', 'quien vendr', 'vendr comer', 'comer crumble', 'crumble peruanas']"
+"Las Crumb Cookies Peruanas
+ Muchos de ustedes nos han llamado
+ Las Crumb Peruanas
+ Y agradecemos su preferencia y todos sus videos
+ En La Galleteria
+ Tenemos mas de 20 sabores de galletas rellenas
+ Encuentranos en el Choki Plaza
+ O en Miraflores
+ Y recuerda que
+ El mejor momento del día se vive en La Galleteria
+",crumb cooky peruanas ustedes llamado crumb peruanas agradecemos preferencia video galleteria ma 20 sabores galletas rellenas encuentranos choki plaza miraflores recuerda mejor momento dia vive galleteria,"['crumb cooky', 'cooky peruanas', 'peruanas ustedes', 'ustedes llamado', 'llamado crumb', 'crumb peruanas', 'peruanas agradecemos', 'agradecemos preferencia', 'preferencia video', 'video galleteria', 'galleteria ma', 'ma 20', '20 sabores', 'sabores galletas', 'galletas rellenas', 'rellenas encuentranos', 'encuentranos choki', 'choki plaza', 'plaza miraflores', 'miraflores recuerda', 'recuerda mejor', 'mejor momento', 'momento dia', 'dia vive', 'vive galleteria']"
+"Halloween cookie
+",halloween cookie,['halloween cookie']
+"i'm in love i'm obsessed and i don't even feel guilty about it
+",im love im obsessed dont even feel guilty,"['im love', 'love im', 'im obsessed', 'obsessed dont', 'dont even', 'even feel', 'feel guilty']"
